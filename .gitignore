@@ -1,0 +1,7 @@
+# Raw Myntra reports contain customer city / pincode - keep them off GitHub.
+inputs/sales_reports/*
+!inputs/sales_reports/.gitkeep
+__pycache__/
+.DS_Store
+*.xlsx#
+~$*

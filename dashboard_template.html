@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Myntra DOD sales – Nat Habit</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  color-scheme: light;
+  --bg:#F2F3EF; --surface:#FFFFFF; --surface-2:#F7F8F5; --ink:#1C2230; --muted:#626A7C; --rule:#DADDD5;
+  --target:#B97A0C; --actual:#2E4A8B;
+  --good:#17804F; --good-bg:#DCF1E4; --bad:#C23A2C; --bad-bg:#F9E0DC; --neutral-bg:#ECEDEA; --future:#F7F8F5;
+  --focus:#2E4A8B;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme: dark;
+    --bg:#14171D; --surface:#1C2028; --surface-2:#191C23; --ink:#E8EAEE; --muted:#9AA1AE; --rule:#2E333D;
+    --target:#E0A93B; --actual:#8FA8E8;
+    --good:#55C893; --good-bg:#173A2A; --bad:#F07A6B; --bad-bg:#45211D; --neutral-bg:#262A33; --future:#191C23;
+    --focus:#8FA8E8;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --bg:#14171D; --surface:#1C2028; --surface-2:#191C23; --ink:#E8EAEE; --muted:#9AA1AE; --rule:#2E333D;
+  --target:#E0A93B; --actual:#8FA8E8;
+  --good:#55C893; --good-bg:#173A2A; --bad:#F07A6B; --bad-bg:#45211D; --neutral-bg:#262A33; --future:#191C23;
+  --focus:#8FA8E8;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:"Figtree", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size:15px; line-height:1.5; font-variant-numeric:tabular-nums;
+  padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0);
+}
+:focus-visible{outline:2px solid var(--focus); outline-offset:2px}
+.wrap{max-width:1440px; margin:0 auto; padding:24px clamp(14px,3vw,36px) 64px}
+
+header.top{display:flex; flex-wrap:wrap; gap:12px 24px; align-items:flex-end; justify-content:space-between; margin-bottom:20px}
+.brand h1{font-size:22px; font-weight:800; margin:0; letter-spacing:-.01em}
+.brand p{margin:2px 0 0; color:var(--muted); font-size:13px}
+.controls{display:flex; gap:10px; align-items:center; flex-wrap:wrap}
+select,input[type=search],button{
+  font:inherit; color:var(--ink); background:var(--surface); border:1px solid var(--rule);
+  border-radius:8px; padding:7px 10px;
+}
+button{cursor:pointer}
+button[aria-pressed="true"]{background:var(--ink); color:var(--bg); border-color:var(--ink)}
+
+nav.tabs{display:flex; gap:4px; border-bottom:1px solid var(--rule); margin-bottom:24px; overflow-x:auto}
+nav.tabs button{border:none; background:none; border-radius:0; padding:10px 14px; color:var(--muted); font-weight:600; border-bottom:3px solid transparent; margin-bottom:-1px; white-space:nowrap}
+nav.tabs button[aria-selected="true"]{color:var(--ink); border-bottom-color:var(--ink)}
+
+/* ---------- target tab ---------- */
+.verdict{margin:0 0 6px; font-size:clamp(28px,4.4vw,48px); font-weight:800; letter-spacing:-.02em; line-height:1.1}
+.verdict.good{color:var(--good)} .verdict.bad{color:var(--bad)}
+.verdict-sub{color:var(--muted); margin:0 0 22px; max-width:78ch; font-size:16px}
+.verdict-sub b{color:var(--ink); font-weight:600}
+
+.facts{display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); margin-bottom:28px}
+.fact{padding:14px 16px 14px 0}
+.fact + .fact{padding-left:16px; border-left:1px solid var(--rule)}
+.fact dt{color:var(--muted); font-size:13px}
+.fact dd{margin:2px 0 0; font-size:20px; font-weight:700}
+
+.strip-wrap{margin-bottom:30px}
+.strip-head{display:flex; justify-content:space-between; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:8px}
+h2{font-size:17px; margin:0; font-weight:700}
+.legend{display:flex; gap:14px; color:var(--muted); font-size:13px; flex-wrap:wrap}
+.legend i{display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:5px; vertical-align:-1px}
+.strip{display:grid; grid-auto-flow:column; grid-auto-columns:minmax(38px,1fr); gap:3px; overflow-x:auto; padding-bottom:4px}
+.cell{border-radius:4px; padding:6px 3px 5px; text-align:center; font-size:12px; min-height:58px; background:var(--future); border:1px solid var(--rule)}
+.cell .d{font-weight:700; font-size:13px}
+.cell .w{color:var(--muted); font-size:11px}
+.cell .v{font-size:10.5px; font-weight:600; margin-top:2px}
+.cell.good{background:var(--good-bg); border-color:transparent} .cell.good .v{color:var(--good)}
+.cell.bad{background:var(--bad-bg); border-color:transparent} .cell.bad .v{color:var(--bad)}
+.cell.event{box-shadow:inset 0 3px 0 var(--target)}
+
+.charts{display:grid; grid-template-columns:repeat(auto-fit,minmax(380px,1fr)); gap:20px; margin-bottom:30px}
+.panel{background:var(--surface); border:1px solid var(--rule); border-radius:10px; padding:16px}
+.panel h2{margin-bottom:10px}
+svg text{fill:var(--muted); font-family:inherit; font-size:11px}
+svg .grid{stroke:var(--rule); stroke-width:1}
+
+.table-scroll{overflow-x:auto; background:var(--surface); border:1px solid var(--rule); border-radius:10px}
+table{border-collapse:separate; border-spacing:0; width:100%; font-size:13px}
+th,td{padding:7px 10px; text-align:right; white-space:nowrap; border-bottom:1px solid var(--rule)}
+th{font-weight:600; color:var(--muted); background:var(--surface); position:sticky; top:0; z-index:2}
+td.l,th.l{text-align:left}
+tr.future td{color:var(--muted)}
+td.pos{color:var(--good); font-weight:600} td.neg{color:var(--bad); font-weight:600}
+td.hit{background:var(--good-bg)} td.miss{background:var(--bad-bg)}
+tr.today td{font-weight:600}
+.tag{display:inline-block; padding:1px 7px; border-radius:20px; background:var(--neutral-bg); font-size:12px}
+
+/* ---------- sku tab ---------- */
+.toolbar{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:12px}
+.toolbar input[type=search]{min-width:240px; flex:1 1 240px; max-width:380px}
+.seg{display:inline-flex; border:1px solid var(--rule); border-radius:8px; overflow:hidden}
+.seg button{border:none; border-radius:0; padding:7px 12px}
+.count{color:var(--muted); font-size:13px; margin-left:auto}
+.matrix-scroll{max-height:72vh; overflow:auto; background:var(--surface); border:1px solid var(--rule); border-radius:10px}
+.matrix{font-size:12px}
+.matrix th,.matrix td{padding:5px 7px}
+.matrix th.day{min-width:44px; text-align:center}
+.matrix td.u{text-align:center; min-width:44px}
+.matrix td.u.hit{background:var(--good-bg); color:var(--good); font-weight:600}
+.matrix td.u.miss{background:var(--bad-bg); color:var(--bad); font-weight:600}
+.matrix td.u.none{color:var(--muted)}
+.matrix .stick{position:sticky; left:0; z-index:1; background:var(--surface)}
+.matrix th.stick{z-index:3}
+.matrix .stick2{position:sticky; left:150px; z-index:1; background:var(--surface); max-width:260px; overflow:hidden; text-overflow:ellipsis; border-right:1px solid var(--rule)}
+.matrix th.stick2{z-index:3}
+.matrix .sku{min-width:150px; max-width:150px; overflow:hidden; text-overflow:ellipsis}
+.matrix tr.total td{font-weight:700; background:var(--surface-2); position:sticky; top:31px; z-index:2}
+.matrix tr.total td.stick,.matrix tr.total td.stick2{z-index:3}
+.matrix th.sortable{cursor:pointer}
+.matrix th.sorted::after{content:" ▾"}
+.matrix th.sorted.asc::after{content:" ▴"}
+.sub{color:var(--muted); font-size:11px; display:block}
+.empty{padding:40px; text-align:center; color:var(--muted)}
+.note{color:var(--muted); font-size:13px; margin:10px 0 0}
+footer{margin-top:36px; color:var(--muted); font-size:12px}
+@media (max-width:640px){
+  .fact + .fact{border-left:none; padding-left:0}
+  .matrix .stick2{display:none}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Myntra DOD sales</h1>
+      <p id="meta-line"></p>
+    </div>
+    <div class="controls">
+      <select id="month" aria-label="Month"></select>
+      <button id="theme" type="button">Light / dark</button>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="target">Target vs actual</button>
+    <button role="tab" aria-selected="false" data-tab="sku">SKU daily</button>
+    <button role="tab" aria-selected="false" data-tab="cat">Categories</button>
+  </nav>
+
+  <section id="tab-target"></section>
+  <section id="tab-sku" hidden></section>
+  <section id="tab-cat" hidden></section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+/* ---------- formatting ---------- */
+const nf0 = new Intl.NumberFormat('en-IN',{maximumFractionDigits:0});
+const nf1 = new Intl.NumberFormat('en-IN',{maximumFractionDigits:1});
+function inr(v){ return v==null ? '–' : '₹' + nf0.format(Math.round(v)); }
+function short(v){
+  if(v==null) return '–';
+  const a=Math.abs(v), s=v<0?'−':'';
+  if(a>=1e7) return s+'₹'+(a/1e7).toFixed(2)+' Cr';
+  if(a>=1e5) return s+'₹'+(a/1e5).toFixed(2)+' L';
+  if(a>=1e3) return s+'₹'+(a/1e3).toFixed(1)+' K';
+  return s+'₹'+nf0.format(a);
+}
+function compact(v,sign=true){
+  if(v==null) return '';
+  const a=Math.abs(v), s=sign?(v>=0?'+':'−'):'';
+  return s + (a>=1e5 ? (a/1e5).toFixed(2)+'L' : (a/1e3).toFixed(0)+'K');
+}
+function axisFmt(v,max){ return max>=1e5 ? (v/1e5).toFixed(2).replace(/\.?0+$/,'')+' L' : nf0.format(v); }
+function signedInr(v){ return v==null?'–':(v>=0?'+':'−')+inr(Math.abs(v)); }
+function dLabel(iso){ const d=new Date(iso+'T00:00:00'); return d.getDate(); }
+function dFull(iso){ return new Date(iso+'T00:00:00').toLocaleDateString('en-IN',{day:'numeric',month:'short'}); }
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+/* ---------- state ---------- */
+const state = { m:null, tab:'target', measure:'units', q:'', cat:'', onlyMiss:false, sort:{key:'plan',dir:-1} };
+
+function init(){
+  if(!DATA || !DATA.months || !DATA.months.length){
+    document.getElementById('tab-target').innerHTML='<p class="empty">No data yet. Run <code>python update_dashboard.py</code> with a Myntra Seller Orders Report.</p>';
+    return;
+  }
+  const sel=document.getElementById('month');
+  DATA.months.forEach((m,i)=>{ const o=document.createElement('option'); o.value=i; o.textContent=m.label; sel.appendChild(o); });
+  // default: latest month that has sales data, else the latest month
+  let idx = DATA.months.length-1;
+  for(let i=DATA.months.length-1;i>=0;i--){ if(DATA.months[i].dataThrough){ idx=i; break; } }
+  sel.value=idx; state.m=DATA.months[idx];
+  sel.onchange=()=>{ state.m=DATA.months[+sel.value]; state.cat=''; renderAll(); };
+  document.querySelectorAll('nav.tabs button').forEach(b=>b.onclick=()=>{
+    state.tab=b.dataset.tab;
+    document.querySelectorAll('nav.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
+    ['target','sku','cat'].forEach(t=>document.getElementById('tab-'+t).hidden = t!==state.tab);
+  });
+  document.getElementById('theme').onclick=()=>{
+    const r=document.documentElement;
+    const dark = r.dataset.theme ? r.dataset.theme==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    r.dataset.theme = dark ? 'light' : 'dark';
+    renderAll();
+  };
+  document.getElementById('footer').textContent =
+    'Actuals = Myntra Seller Orders Report, created-on date, final amount, excluding lines with any cancellation, RTO, lost or return date. Generated '+DATA.generatedAt+'.';
+  renderAll();
+}
+
+function renderAll(){
+  const m=state.m;
+  document.getElementById('meta-line').textContent =
+    m.dataThrough ? `Nat Habit · data through ${dFull(m.dataThrough)}${m.updatedAt? ' · updated '+m.updatedAt:''}` : 'Nat Habit · no sales loaded for this month yet';
+  renderTarget(); renderSku(); renderCat();
+}
+
+/* ---------- target vs actual ---------- */
+function renderTarget(){
+  const m=state.m, el=document.getElementById('tab-target');
+  const rows=m.daily;
+  const done=rows.filter(r=>r.actual!=null);
+  const last=done[done.length-1];
+  const hasT = m.monthlyTarget!=null;
+  const mtdA = last? last.cumActual : 0;
+  const mtdT = last && hasT ? last.cumTarget : null;
+  const delta = last && hasT ? last.delta : null;
+  const remainingDays = rows.length - done.length;
+  const remainingTarget = hasT ? m.monthlyTarget - mtdA : null;
+  const reqDrr = hasT && remainingDays>0 ? remainingTarget/remainingDays : null;
+  const curDrr = done.length ? mtdA/done.length : null;
+  const projected = curDrr!=null ? mtdA + curDrr*remainingDays : null;
+  const hitDays = done.filter(r=>r.dayDelta!=null && r.dayDelta>=0).length;
+
+  let verdict='', cls='', sub='';
+  if(!hasT){
+    verdict = done.length? short(mtdA)+' sold so far' : 'No target or sales yet';
+    sub = `Add <b>inputs/targets/${m.month}.csv</b> and a row in <b>monthly_targets.csv</b> to see the target split.`;
+  } else if(!done.length){
+    verdict = short(m.monthlyTarget)+' target'; sub='Daily targets are set from the traffic phasing. Actuals appear once a sales report for this month is loaded.';
+  } else {
+    cls = delta>=0?'good':'bad';
+    verdict = `${short(Math.abs(delta))} ${delta>=0?'ahead of':'behind'} plan`;
+    sub = `After ${done.length} day${done.length>1?'s':''}: <b>${short(mtdA)}</b> sold against a cumulative target of <b>${short(mtdT)}</b> (${(mtdA/mtdT*100).toFixed(1)}%). `+
+          (remainingDays>0 ? `To reach ${short(m.monthlyTarget)}, the remaining ${remainingDays} days need <b>${short(reqDrr)}/day</b> vs the current <b>${short(curDrr)}/day</b>.` : `Month closed at ${(mtdA/m.monthlyTarget*100).toFixed(1)}% of target.`);
+  }
+
+  const facts = [
+    ['Monthly target', hasT? short(m.monthlyTarget):'–'],
+    ['MTD actual', short(mtdA)],
+    ['MTD target', short(mtdT)],
+    ['Achievement', hasT? (mtdA/m.monthlyTarget*100).toFixed(1)+'% of month':'–'],
+    ['Days on or above target', hasT && done.length? `${hitDays} of ${done.length}`:'–'],
+    ['Run-rate projection', projected!=null? short(projected):'–'],
+  ];
+
+  const strip = rows.map(r=>{
+    const st = r.dayDelta==null ? '' : (r.dayDelta>=0?'good':'bad');
+    const ev = r.event && !/^BAU/i.test(r.event) ? ' event':'';
+    const v = r.dayDelta==null ? (r.target!=null? compact(r.target,false):'') : compact(r.dayDelta);
+    const tip = `${dFull(r.date)} ${r.event||''}\nTarget ${inr(r.target)}\nActual ${inr(r.actual)}`;
+    return `<div class="cell ${st}${ev}" title="${esc(tip)}"><div class="w">${esc((r.day||'').slice(0,2))}</div><div class="d">${dLabel(r.date)}</div><div class="v">${v}</div></div>`;
+  }).join('');
+
+  const today = last? last.date : null;
+  const table = rows.map(r=>{
+    const fut = r.actual==null;
+    const dayCls = r.dayDelta==null?'':(r.dayDelta>=0?'hit':'miss');
+    const dCls = r.delta==null?'':(r.delta>=0?'pos':'neg');
+    const ddCls = r.dayDelta==null?'':(r.dayDelta>=0?'pos':'neg');
+    return `<tr class="${fut?'future':''}${r.date===today?' today':''}">
+      <td class="l">${dFull(r.date)}</td><td class="l">${esc(r.day)}</td>
+      <td class="l">${r.event?`<span class="tag">${esc(r.event)}</span>`:''}</td><td class="l">${esc(r.offer)}</td>
+      <td>${r.phasing!=null?(r.phasing*100).toFixed(2)+'%':'–'}</td>
+      <td>${inr(r.target)}</td><td class="${dayCls}">${inr(r.actual)}</td><td class="${ddCls}">${signedInr(r.dayDelta)}</td>
+      <td>${inr(r.cumTarget)}</td><td>${inr(r.cumActual)}</td><td class="${dCls}">${signedInr(r.delta)}</td>
+      <td>${r.units!=null?nf0.format(r.units):'–'}</td></tr>`;
+  }).join('');
+
+  el.innerHTML = `
+    <p class="verdict ${cls}">${verdict}</p>
+    <p class="verdict-sub">${sub}</p>
+    <dl class="facts">${facts.map(f=>`<div class="fact"><dt>${f[0]}</dt><dd>${f[1]}</dd></div>`).join('')}</dl>
+    <div class="strip-wrap">
+      <div class="strip-head"><h2>Day by day</h2>
+        <div class="legend"><span><i style="background:var(--good-bg);border:1px solid var(--good)"></i>Beat the day's target</span>
+        <span><i style="background:var(--bad-bg);border:1px solid var(--bad)"></i>Below the day's target</span>
+        <span><i style="background:var(--target)"></i>Sale event</span></div></div>
+      <div class="strip">${strip}</div>
+    </div>
+    <div class="charts">
+      <div class="panel"><h2>Cumulative: target vs actual</h2>${cumChart(rows)}</div>
+      <div class="panel"><h2>Daily: actual vs DOD target</h2>${dayChart(rows)}</div>
+    </div>
+    <h2 style="margin-bottom:10px">Phasing and delta</h2>
+    <div class="table-scroll"><table>
+      <thead><tr><th class="l">Date</th><th class="l">Day</th><th class="l">Event</th><th class="l">Type</th><th>Phasing</th>
+      <th>DOD target</th><th>Actual</th><th>Day delta</th><th>Cum. target</th><th>Cum. actual</th><th>Delta</th><th>Units</th></tr></thead>
+      <tbody>${table}</tbody></table></div>
+    <p class="note">Delta = cumulative actual − cumulative target. Positive means ahead of plan. DOD target = monthly target × that day's traffic phasing.</p>`;
+}
+
+function axisMax(v){ if(v<=0) return 1; const p=Math.pow(10,Math.floor(Math.log10(v))); return Math.ceil(v/p*2)/2*p; }
+
+function cumChart(rows){
+  const W=560,H=240,L=58,R=12,T=12,B=26, n=rows.length;
+  const max=axisMax(Math.max(...rows.map(r=>Math.max(r.cumTarget||0,r.cumActual||0))));
+  const x=i=>L+(W-L-R)*(n===1?0:i/(n-1)), y=v=>T+(H-T-B)*(1-v/max);
+  const path=(k)=>{ let d=''; rows.forEach((r,i)=>{ if(r[k]!=null) d+=(d?'L':'M')+x(i).toFixed(1)+','+y(r[k]).toFixed(1); }); return d; };
+  let g=''; for(let i=0;i<=4;i++){ const v=max*i/4; g+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L-6}" y="${y(v)+4}" text-anchor="end">${axisFmt(v,max)}</text>`; }
+  let xl=''; rows.forEach((r,i)=>{ if(i%5===0||i===n-1) xl+=`<text x="${x(i)}" y="${H-8}" text-anchor="middle">${dLabel(r.date)}</text>`; });
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Cumulative target and actual">${g}${xl}
+    <path d="${path('cumTarget')}" fill="none" stroke="var(--target)" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="${path('cumActual')}" fill="none" stroke="var(--actual)" stroke-width="2.5"/>
+    </svg><div class="legend"><span><i style="background:var(--target)"></i>Cumulative target</span><span><i style="background:var(--actual)"></i>Cumulative actual</span></div>`;
+}
+
+function dayChart(rows){
+  const W=560,H=240,L=58,R=12,T=12,B=26, n=rows.length;
+  const max=axisMax(Math.max(...rows.map(r=>Math.max(r.target||0,r.actual||0))));
+  const bw=(W-L-R)/n, y=v=>T+(H-T-B)*(1-v/max);
+  let g=''; for(let i=0;i<=4;i++){ const v=max*i/4; g+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L-6}" y="${y(v)+4}" text-anchor="end">${axisFmt(v,max)}</text>`; }
+  let bars='', ticks='', xl='';
+  rows.forEach((r,i)=>{
+    const cx=L+bw*i;
+    if(r.actual!=null){
+      const col = r.target==null ? 'var(--actual)' : (r.actual>=r.target?'var(--good)':'var(--bad)');
+      bars+=`<rect x="${cx+bw*.18}" y="${y(r.actual)}" width="${bw*.64}" height="${Math.max(0,y(0)-y(r.actual))}" fill="${col}" opacity=".85" rx="1.5"><title>${dFull(r.date)}: ${inr(r.actual)} vs ${inr(r.target)}</title></rect>`;
+    }
+    if(r.target!=null) ticks+=`<line x1="${cx+bw*.08}" x2="${cx+bw*.92}" y1="${y(r.target)}" y2="${y(r.target)}" stroke="var(--target)" stroke-width="2.5"/>`;
+    if(i%5===0||i===n-1) xl+=`<text x="${cx+bw/2}" y="${H-8}" text-anchor="middle">${dLabel(r.date)}</text>`;
+  });
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Daily actual versus target">${g}${xl}${bars}${ticks}</svg>
+    <div class="legend"><span><i style="background:var(--target)"></i>DOD target</span><span><i style="background:var(--good)"></i>Actual, on or above</span><span><i style="background:var(--bad)"></i>Actual, below</span></div>`;
+}
+
+/* ---------- SKU daily ---------- */
+function skuStats(s, m){
+  const done = s.u.filter(v=>v!=null).length;
+  const units = s.u.reduce((a,v)=>a+(v||0),0);
+  const rev = s.r.reduce((a,v)=>a+(v||0),0);
+  const drr = done? units/done : null;
+  const vals = s.u.filter(v=>v!=null);
+  const hit = s.plan!=null ? vals.filter(v=>v>=s.plan).length : null;
+  return {done, units, rev, drr, hit, achv: s.plan? drr/s.plan : null};
+}
+function cellClass(v, plan){
+  if(v==null) return '';
+  if(plan==null) return 'none';
+  if(plan===0 && v===0) return 'none';
+  return v>=plan ? 'hit' : 'miss';
+}
+
+function renderSku(){
+  const m=state.m, el=document.getElementById('tab-sku');
+  if(!m.skus.length){ el.innerHTML='<p class="empty">No SKU plan or sales for this month yet.</p>'; return; }
+  const cats=[...new Set(m.skus.map(s=>s.cat))].sort();
+  el.innerHTML = `
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Search SKU, style ID or name" value="${esc(state.q)}">
+      <select id="cat"><option value="">All categories</option>${cats.map(c=>`<option ${c===state.cat?'selected':''}>${esc(c)}</option>`).join('')}</select>
+      <span class="seg" role="group" aria-label="Measure">
+        <button type="button" data-meas="units" aria-pressed="${state.measure==='units'}">Units</button>
+        <button type="button" data-meas="rev" aria-pressed="${state.measure==='rev'}">Revenue</button></span>
+      <button type="button" id="miss" aria-pressed="${state.onlyMiss}">Below plan MTD</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="matrix-scroll" id="mx"></div>
+    <p class="note">Green: the SKU sold at or above its planned DRR that day. Red: below. ${state.measure==='rev'?'Revenue view compares against planned DRR × SP. ':''}${m.planMonth && m.planMonth!==m.month?`Using the ${m.planMonth} SKU plan (no plan file for this month). `:''}Grey: no plan, or zero planned and zero sold.</p>`;
+  el.querySelector('#q').oninput=e=>{state.q=e.target.value; drawMatrix();};
+  el.querySelector('#cat').onchange=e=>{state.cat=e.target.value; drawMatrix();};
+  el.querySelectorAll('[data-meas]').forEach(b=>b.onclick=()=>{state.measure=b.dataset.meas; renderSku();});
+  el.querySelector('#miss').onclick=e=>{state.onlyMiss=!state.onlyMiss; e.target.setAttribute('aria-pressed',state.onlyMiss); drawMatrix();};
+  drawMatrix();
+}
+
+function drawMatrix(){
+  const m=state.m, rev=state.measure==='rev';
+  const q=state.q.trim().toLowerCase();
+  let list=m.skus.map(s=>({s, st:skuStats(s,m)}));
+  if(q) list=list.filter(({s})=>(s.sku+' '+s.style+' '+s.name).toLowerCase().includes(q));
+  if(state.cat) list=list.filter(({s})=>s.cat===state.cat);
+  if(state.onlyMiss) list=list.filter(({s,st})=>s.plan!=null && st.drr!=null && st.drr<s.plan);
+  const k=state.sort.key, dir=state.sort.dir;
+  const keyf={plan:x=>x.s.plan??-1, sku:x=>x.s.sku, mtd:x=>rev?x.st.rev:x.st.units, drr:x=>x.st.drr??-1, achv:x=>x.st.achv??-1, prev:x=>x.s.prevDrr??-1};
+  list.sort((a,b)=>{ const A=keyf[k](a),B=keyf[k](b); return (A>B?1:A<B?-1:0)*dir; });
+
+  const days=m.days;
+  const fmt = v => v==null?'':(rev? nf0.format(Math.round(v)) : nf0.format(v));
+  const planOf = s => s.plan==null?null:(rev? (s.sp!=null? s.plan*s.sp : null) : s.plan);
+
+  // totals row
+  const tot = days.map((d,i)=>{ let any=false, t=0; list.forEach(({s})=>{ const v=(rev?s.r:s.u)[i]; if(v!=null){any=true;t+=v;} }); return any?t:null; });
+  const totPlan = list.reduce((a,{s})=>a+(planOf(s)||0),0);
+  const totMtd = list.reduce((a,{st})=>a+(rev?st.rev:st.units),0);
+  const doneDays = tot.filter(v=>v!=null).length;
+
+  const th=(key,label,cls='')=>`<th class="sortable ${cls} ${k===key?'sorted'+(dir>0?' asc':''):''}" data-k="${key}">${label}</th>`;
+  const head = `<tr>${th('sku','NH SKU','l stick sku')}<th class="l stick2">Variant</th><th class="l">Category</th><th>SP</th>
+    ${th('prev','Prev DRR')}${th('plan','Planned DRR')}
+    ${days.map(d=>`<th class="day">${dLabel(d)}<span class="sub">${new Date(d+'T00:00:00').toLocaleDateString('en-IN',{weekday:'short'}).slice(0,2)}</span></th>`).join('')}
+    ${th('mtd','MTD')}${th('drr','MTD DRR')}${th('achv','vs plan')}</tr>`;
+  const totalRow = `<tr class="total"><td class="l stick sku">All shown</td><td class="l stick2">${list.length} SKUs</td><td></td><td></td><td></td>
+    <td>${rev? nf0.format(Math.round(totPlan)) : nf1.format(totPlan)}</td>
+    ${tot.map(v=>`<td class="u ${cellClass(v,totPlan)}">${fmt(v)}</td>`).join('')}
+    <td>${fmt(totMtd)}</td><td>${doneDays? nf1.format(totMtd/doneDays):''}</td><td>${totPlan&&doneDays? Math.round(totMtd/doneDays/totPlan*100)+'%':''}</td></tr>`;
+
+  const body = list.map(({s,st})=>{
+    const p=planOf(s), arr=rev?s.r:s.u;
+    const mtd=rev?st.rev:st.units, drr=st.done? mtd/st.done : null;
+    const ach = p? drr/p : null;
+    return `<tr><td class="l stick sku" title="${esc(s.sku)} · style ${s.style}">${esc(s.sku)}</td><td class="l stick2" title="${esc(s.name)}">${esc(s.name)}</td>
+      <td class="l">${esc(s.cat)}</td><td>${s.sp!=null?nf0.format(s.sp):''}</td>
+      <td>${s.prevDrr!=null?nf1.format(s.prevDrr):''}</td><td>${p!=null?(rev?nf0.format(Math.round(p)):nf1.format(p)):''}</td>
+      ${arr.map(v=>`<td class="u ${cellClass(v, rev? p : s.plan)}">${fmt(v)}</td>`).join('')}
+      <td>${fmt(mtd)}</td><td>${drr!=null?nf1.format(drr):''}</td>
+      <td class="${ach==null?'':(ach>=1?'pos':'neg')}">${ach!=null?Math.round(ach*100)+'%':''}</td></tr>`;
+  }).join('');
+
+  const mx=document.getElementById('mx');
+  mx.innerHTML = list.length ? `<table class="matrix"><thead>${head}</thead><tbody>${totalRow}${body}</tbody></table>` : '<p class="empty">No SKUs match these filters.</p>';
+  document.getElementById('count').textContent = `${list.length} of ${m.skus.length} SKUs`;
+  mx.querySelectorAll('th.sortable').forEach(t=>t.onclick=()=>{
+    const key=t.dataset.k; state.sort = {key, dir: state.sort.key===key ? -state.sort.dir : (key==='sku'?1:-1)}; drawMatrix();
+  });
+}
+
+/* ---------- categories ---------- */
+function renderCat(){
+  const m=state.m, el=document.getElementById('tab-cat');
+  if(!m.skus.length){ el.innerHTML='<p class="empty">No SKU plan or sales for this month yet.</p>'; return; }
+  const by={};
+  m.skus.forEach(s=>{
+    const c=by[s.cat] ||= {cat:s.cat, plan:0, planRev:0, u:m.days.map(()=>null), r:0, n:0};
+    c.n++; c.plan+=s.plan||0; c.planRev+=(s.plan||0)*(s.sp||0);
+    s.u.forEach((v,i)=>{ if(v!=null) c.u[i]=(c.u[i]||0)+v; });
+    c.r+=s.r.reduce((a,v)=>a+(v||0),0);
+  });
+  const rows=Object.values(by).map(c=>{
+    const done=c.u.filter(v=>v!=null).length, units=c.u.reduce((a,v)=>a+(v||0),0);
+    return {...c, done, units, drr: done? units/done:null, hit: c.u.filter(v=>v!=null && v>=c.plan).length};
+  }).sort((a,b)=>b.units-a.units);
+  el.innerHTML = `
+    <div class="matrix-scroll"><table class="matrix">
+      <thead><tr><th class="l stick sku">Category</th><th>SKUs</th><th>Planned DRR</th>
+        ${m.days.map(d=>`<th class="day">${dLabel(d)}</th>`).join('')}
+        <th>MTD units</th><th>MTD revenue</th><th>MTD DRR</th><th>vs plan</th><th>Days hit</th></tr></thead>
+      <tbody>${rows.map(c=>{
+        const ach=c.plan&&c.drr!=null? c.drr/c.plan : null;
+        return `<tr><td class="l stick sku" title="${esc(c.cat)}">${esc(c.cat)}</td><td>${c.n}</td><td>${nf1.format(c.plan)}</td>
+          ${c.u.map(v=>`<td class="u ${cellClass(v, c.plan||null)}">${v==null?'':nf0.format(v)}</td>`).join('')}
+          <td>${nf0.format(c.units)}</td><td>${short(c.r)}</td><td>${c.drr!=null?nf1.format(c.drr):''}</td>
+          <td class="${ach==null?'':(ach>=1?'pos':'neg')}">${ach!=null?Math.round(ach*100)+'%':''}</td><td>${c.done? c.hit+' / '+c.done:''}</td></tr>`;
+      }).join('')}</tbody></table></div>
+    <p class="note">Category planned DRR is the sum of its SKUs' planned DRR. Revenue is final amount from the sales report.</p>`;
+}
+
+init();
+</script>
+</body>
+</html>
