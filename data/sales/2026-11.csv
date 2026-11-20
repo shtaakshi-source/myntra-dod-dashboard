@@ -239,7 +239,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-02,25224054,11,1850.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-02,25224060,3,501.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-02,25224062,2,335.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-02,25247830,41,7175.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-02,25247830,40,7000.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
 2026-11-02,25584294,59,15746.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-02,25584296,9,2386.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-02,25915236,2,750.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
@@ -565,7 +565,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-04,45383808,9,4698.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
 2026-11-04,45894497,1,400.0,FC-CWDM-TP-050,Nat Habit Tomato Patchouli Vit-BEC - 48 Hr Moisturization Face Malai - 50 g,Day Cream
 2026-11-05,19882878,4,796.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-05,19882880,14,2786.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
+2026-11-05,19882880,13,2587.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
 2026-11-05,19882884,2,398.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-05,20077842,1,250.0,HR-NM-CS2-040,Nat Habit Set of 2 Curry Sesame Fresh Hair NutriMask For Grey Hair Control - 40g Each,Hair Masks
 2026-11-05,20077844,2,712.0,HR-NM-HB3-040,Nat Habit 3Pcs Five Oil Hibiscus Nutri Hair Mask for Conditioning & Strengthening-40g each,Hair Masks
@@ -582,7 +582,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-05,20186062,1,287.0,HR-SHO-NB-100,Nat Habit Neem Bhringraj Anti-Dandruff Summer Hair Oil with Tea Tree & Castor - 200ml,Hair Oil
 2026-11-05,20186064,2,940.0,HR-SHO-TL-200,Nat Habit TriLeaf Summer Dasabuti Hair Oil for Hair Fall Control & Growth - 200ml,Hair Oil
 2026-11-05,20186070,1,312.0,HR-SHO-CS-100,Nat Habit Curry Sesame Summer Dasabuti Grey Hair Control Oil - 100ml,Hair Oil
-2026-11-05,20186072,12,3864.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
+2026-11-05,20186072,11,3542.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
 2026-11-05,20186078,1,539.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
 2026-11-05,20187194,3,837.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
 2026-11-05,20187196,7,2163.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
@@ -755,7 +755,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-06,22675832,4,1120.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
 2026-11-06,22675836,6,1194.0,BC-PO-CO-200,Nat Habit Non-Refined LLP-Free Pure Coconut Oil - 200ml,Hair Oil
 2026-11-06,24264040,1,269.0,FC-FW-PBCR-100,Nat Habit Tikta Purifying Bitter Milk Cream Face Wash with Milk+Karvela+Cashew - 100 g,Face Wash and Cleanser
-2026-11-06,24264042,6,1584.0,FC-FW-MVGL-100,Nat Habit Tikta Moringa Vitamin C Gel Face Wash with Orange  Amla - 100g,Face Wash and Cleanser
+2026-11-06,24264042,5,1320.0,FC-FW-MVGL-100,Nat Habit Tikta Moringa Vitamin C Gel Face Wash with Orange  Amla - 100g,Face Wash and Cleanser
 2026-11-06,24265124,6,1704.0,FC-FW-BNGL-100,Nat Habit Anti Acne Facewash - 100g,Face Wash and Cleanser
 2026-11-06,25173570,1,241.0,BA-BU-GG-080,"Nat Habit Baby Daily Ubtan Body Wash & Soap with Natural Herbs,Wheat Flour & Besan- 80g",Baby Body Wash and Soap
 2026-11-06,25224054,5,845.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
@@ -813,7 +813,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-06,45514718,1,708.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
 2026-11-07,19882878,3,597.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-07,19882880,14,2786.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
-2026-11-07,19882884,4,796.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
+2026-11-07,19882884,3,597.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-07,19882888,1,386.0,AC-KNC-DWT-02,Nat Habit 2Pcs Kacchi Neem Handmade Dual + Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-07,20077840,1,220.0,HR-NM-TL2-040,Nat Habit 2Pcs Crushed Tri-Leaf NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
 2026-11-07,20077844,1,356.0,HR-NM-HB3-040,Nat Habit 3Pcs Five Oil Hibiscus Nutri Hair Mask for Conditioning & Strengthening-40g each,Hair Masks
@@ -886,7 +886,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-07,25224060,2,338.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-07,25224062,1,169.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-07,25247830,30,5250.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-07,25584294,56,15064.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-07,25584294,55,14795.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-07,25584296,4,1076.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-07,25915236,6,2250.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
 2026-11-07,25915238,2,750.0,BC-BL-MNS-250MY,Nat Habit Multi-Nut Omega 3 Moisturiser Body Cream With Almond & Walnut Skin Repair 250 ml,Body Cream and Lotion
@@ -981,7 +981,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-08,22554270,1,398.0,CB-KNC-WNBN-03,Nat Habit Wide Tooth kacchi Neem Comb & Neem Bhringraj NutriMask,Hair Care Combo
 2026-11-08,22675832,1,280.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
 2026-11-08,22675836,3,597.0,BC-PO-CO-200,Nat Habit Non-Refined LLP-Free Pure Coconut Oil - 200ml,Hair Oil
-2026-11-08,24264040,5,1345.0,FC-FW-PBCR-100,Nat Habit Tikta Purifying Bitter Milk Cream Face Wash with Milk+Karvela+Cashew - 100 g,Face Wash and Cleanser
+2026-11-08,24264040,4,1076.0,FC-FW-PBCR-100,Nat Habit Tikta Purifying Bitter Milk Cream Face Wash with Milk+Karvela+Cashew - 100 g,Face Wash and Cleanser
 2026-11-08,24264042,1,264.0,FC-FW-MVGL-100,Nat Habit Tikta Moringa Vitamin C Gel Face Wash with Orange  Amla - 100g,Face Wash and Cleanser
 2026-11-08,24264044,1,269.0,FC-FW-MVCR-100,Nat Habit Moringa Vitamin-C Natural Face Wash for Pimple & Oil Control - 100g,Face Wash and Cleanser
 2026-11-08,24265124,5,1420.0,FC-FW-BNGL-100,Nat Habit Anti Acne Facewash - 100g,Face Wash and Cleanser
@@ -1014,7 +1014,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-08,32857902,1,426.0,BA-BML-AD-200,Nat Habit Baby Malai Lotion With Almond & Date For Deep Nourishment - 200 ml,Baby Lotions and Creams
 2026-11-08,32906223,1,204.0,FC-HG-PA-080,Nat Habit Fresh Pure Aloe Vera Cooling Gel - 80 g,Serum and Gel
 2026-11-08,32906224,1,225.0,FC-HG-RT-080,Nat Habit Fresh Steamed Rose Toning Face Gel - 80 g,Serum and Gel
-2026-11-08,32906225,1,229.0,FC-HG-NT-080,Nat Habit Fresh Neem Tea-Tree Anti-Acne Toning Gel - 80 g,Serum and Gel
 2026-11-08,33623194,1,307.0,HR-AHO-OA-100,Nat Habit Dasabuti Hair Oil With Vitamin E - 100 ml,Hair Oil
 2026-11-08,33623847,2,614.0,HR-AHO-CC-100,Nat Habit Castor Coconut All-Season Hair Oil With Amla Bhringraj & Methi 100ml,Hair Oil
 2026-11-08,36454616,2,536.0,BC-CPS-NLHL2-125,Nat Habit Set Of 2 Cold Processed Himalayan Lavender Soap- 125 g Each,Soap
@@ -1099,7 +1098,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-09,25224054,11,1859.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-09,25224060,1,169.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-09,25224062,3,507.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-09,25247830,26,4550.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-09,25247830,25,4375.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
 2026-11-09,25584294,60,16140.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-09,25584296,2,538.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-09,25915234,1,399.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
@@ -1117,7 +1116,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-09,30348841,1,294.0,HR-CN-CB-150,Nat Habit Bio Activated Fresh Nutri Conditioner With Castor & Curd - 150ml,Conditioner
 2026-11-09,30856885,2,350.0,HR-PHO-SB-050,"Nat Habit Post Henna Stain Boost Oil for Darkening, Nourishment & Shine - 50ml",Hair Oil
 2026-11-09,31678056,1,1569.0,FC-CM-CKM-010,Nat Habit Classical Kumkumadi Mukhalaya Face Oil with 26 Herbs - 10ml,Facial Oil
-2026-11-09,31694657,1,329.0,FC-ML-PMJ-015,Nat Habit Mukhalaya Patchouli Manjistha Aging & Wrinkle Protection Facial Oil - 15ml,Facial Oil
 2026-11-09,31694664,3,963.0,FC-ML-TRH-015,Nat Habit Mukhalaya Turmeric Rosehip Facial Oil - 15ml,Facial Oil
 2026-11-09,31700291,1,231.0,FC-KL-FM-040-MY,Nat Habit Fresh Ksheer Lepa Mask with Flaxseed & Manjistha for Skin Elasticity - 40g,Mask and Peel
 2026-11-09,32563091,3,879.0,HR-HIP-IP-85,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 85g - Black,Hair Colour
@@ -1137,7 +1135,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-09,44534967,4,1200.0,HR-SH-ON-250,Nat Habit Anti Hair Fall Onion Shampoo - 250 ml,Shampoo
 2026-11-09,44693409,1,300.0,FC-HP-AHP-125,Nat Habit Pure Amla Powder - 100 g,Hair Masks
 2026-11-09,44697932,1,260.0,FC-HP-MM-200,Nat Habit Pure Multani Mitti Powder - 200 g,Mask and Peel
-2026-11-09,45383808,6,3132.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
+2026-11-09,45383808,5,2610.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
 2026-11-09,45514718,2,1416.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
 2026-11-10,19882878,6,1194.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-10,19882880,12,2388.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
@@ -1156,7 +1154,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-10,20186054,2,574.0,HR-SHO-TL-100,Nat Habit Tri-Leaf Summer Dasabuti Hair Oil - Hair Fall Control & Ayurvedic Herbal - 100ml,Hair Oil
 2026-11-10,20186062,2,574.0,HR-SHO-NB-100,Nat Habit Neem Bhringraj Anti-Dandruff Summer Hair Oil with Tea Tree & Castor - 200ml,Hair Oil
 2026-11-10,20186068,1,313.0,HR-SHO-OA-100,Nat Habit Olive Almond Vit-E Summer Dasabuti Light  Non-Sticky Hair Oil- 100ml,Hair Oil
-2026-11-10,20186072,2,644.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
+2026-11-10,20186072,1,322.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
 2026-11-10,20186078,1,539.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
 2026-11-10,20187194,3,837.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
 2026-11-10,20187196,3,927.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
@@ -1205,7 +1203,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-10,22158110,1,328.0,FC-CWDM-BT-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Blackseed & Tulsi - 30 g,Day Cream
 2026-11-10,22158112,1,355.0,FC-HHDM-FC-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Flax  Carrot - 30 g,Day Cream
 2026-11-10,22158118,1,355.0,FC-HDDM-FB-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Flax  Bakuchi - 30 g,Day Cream
-2026-11-10,22173744,1,209.0,BC-HM-PWR-025,Nat Habit Pumpkin Walnut Fresh Whipped Hand Malai for Aging & Wrinkle Control - 30 ml,Hand Cream
 2026-11-10,22173746,2,772.0,BC-HM-LMG2-025,Nat Habit Set Of 2 Lemon Moringa Fresh Whipped Hand Malai For Tan  30 ml Each,Hand Cream
 2026-11-10,22173748,2,398.0,BC-HM-LMG-025,Nat Habit Lemon Moringa Hand Cream with Shea Butter Moisturizes & Reduces Tan - 30ml,Hand Cream
 2026-11-10,22185992,2,1362.0,HR-HE-RA4-250,Nat Habit 4Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
@@ -1228,7 +1225,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-10,25224054,6,1014.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-10,25224060,1,169.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-10,25224062,1,169.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-10,25247830,34,5950.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-10,25247830,33,5775.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
 2026-11-10,25584294,53,14257.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-10,25584296,1,269.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-10,25915236,9,3375.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
@@ -1361,7 +1358,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-11,25584294,61,16409.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-11,25584296,4,1076.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-11,25915234,1,399.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
-2026-11-11,25915236,12,4500.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
+2026-11-11,25915236,11,4125.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
 2026-11-11,25915240,1,340.0,BC-BL-AS-250MY,Nat Habit Fresh Whipped Body Lotion With Aloe Vera & Shea Butter For Smooth Skin 250 g,Body Cream and Lotion
 2026-11-11,25948204,1,429.0,FC-AC-AC-050MY,Nat Habit Active Hydra Lift Gel With Aloe Cactus - 50g,Serum and Gel
 2026-11-11,29656240,1,653.0,CB-CP-CARM-02,Nat Habit Pure Cold Pressed Castor Oil 200ml & Rosemary Essential Oil 15ml,Hair Care Combo
@@ -1402,7 +1399,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-11,44514835,1,958.0,HR-CB-HJSC-03,"Nat Habit Set Of 3 Hibiscus Hair Spray - 200 ml, Shampoo - 250 ml With Conditioner - 150ml",Hair Care Combo
 2026-11-11,44534967,10,3000.0,HR-SH-ON-250,Nat Habit Anti Hair Fall Onion Shampoo - 250 ml,Shampoo
 2026-11-11,45383808,7,3654.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
-2026-11-11,45514718,2,1416.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
+2026-11-11,45514718,1,708.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
 2026-11-11,45527357,2,1378.0,HR-SH-TR2-250,Nat Habit Set Of 2 Anti-HairFall Tri-Leaf Rosemary Navdha Shampoo - 250 ml Each,Shampoo
 2026-11-11,45529079,3,1815.0,FC-CB-BUPG-02,Nat Habit Set Of 2 De-tan Ubtan Facewash - 100 g & Face Malai Moisturiser - 30 g,Skin Care Combo
 2026-11-11,45894497,1,400.0,FC-CWDM-TP-050,Nat Habit Tomato Patchouli Vit-BEC - 48 Hr Moisturization Face Malai - 50 g,Day Cream
@@ -1417,7 +1414,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-12,20077848,2,712.0,HR-NM-CS3-040,Nat Habit Set of 3 Curry Sesame Fresh Hair NutriMask For Grey Hair Control - 40g Each,Hair Masks
 2026-11-12,20077850,1,220.0,HR-NM-NB2-040,Nat Habit Set of 2 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-12,20077852,2,628.0,HR-NM-TL3-040,"Nat Habit 3 Pcs Tri-Leaf Rosemary Nutri Hair Mask for Hairfall, Smooth & Shine Hair - 40g",Hair Masks
-2026-11-12,20077854,11,2750.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
+2026-11-12,20077854,10,2500.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
 2026-11-12,20077856,1,314.0,HR-NM-NB3-040,Nat Habit Set of 3 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-12,20183310,12,2628.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
 2026-11-12,20183314,2,438.0,FC-FL-LA-100,Nat Habit 100% Pure Fresh Distilled Lavender Flora Jal Toner For Skin Toning - 100ml,Toner
@@ -1559,14 +1556,13 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-13,20077848,1,356.0,HR-NM-CS3-040,Nat Habit Set of 3 Curry Sesame Fresh Hair NutriMask For Grey Hair Control - 40g Each,Hair Masks
 2026-11-13,20077850,2,440.0,HR-NM-NB2-040,Nat Habit Set of 2 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-13,20077852,1,314.0,HR-NM-TL3-040,"Nat Habit 3 Pcs Tri-Leaf Rosemary Nutri Hair Mask for Hairfall, Smooth & Shine Hair - 40g",Hair Masks
-2026-11-13,20077854,17,4296.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
+2026-11-13,20077854,16,4046.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
 2026-11-13,20077856,1,314.0,HR-NM-NB3-040,Nat Habit Set of 3 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-13,20183306,1,624.0,FC-FL-GU3-100,Nat Habit 3Pcs 100% Pure Gulab Jal Rose Water for Pore Reduction & Acne Control-100ml each,Toner
 2026-11-13,20183308,1,219.0,FC-FL-MO-100,Nat Habit 100% Pure Fresh Distilled Mogra Flora Jal Toner For Skin Toning - 100ml,Toner
 2026-11-13,20183310,12,2628.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
 2026-11-13,20183312,2,1248.0,FC-FL-LA3-100,Nat Habit Set Of 3 Pure Fresh Distilled Lavender Flora Jal Toner - 100ml Each,Toner
 2026-11-13,20185572,1,357.0,BC-CPS-SS2-125,Nat Habit Set of 2 Cold Processed Sandalwood Butter Soap for Tan Removal - 125g Each,Soap
-2026-11-13,20185582,1,184.0,BC-CPS-WA-125,Nat Habit Wild Apricot Cold Processed Soap 125 g,Soap
 2026-11-13,20185584,2,368.0,BC-CPS-SS-125,Nat Habit Sandalwood Soothing Cold Processed Soap-125 g,Soap
 2026-11-13,20185592,1,184.0,BC-CPS-NB-125,Nat Habit Sacred Neem Basil Cold Processed Soap 125 g,Soap
 2026-11-13,20185594,1,357.0,BC-CPS-MR2-125,Nat Habit Set of 2 Milk  Rosehip Brightening Cold Processed Soap-125 g (Each),Soap
@@ -1579,7 +1575,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-13,20186072,7,2254.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
 2026-11-13,20186078,3,1617.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
 2026-11-13,20187194,9,2511.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
-2026-11-13,20187196,44,13596.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
+2026-11-13,20187196,43,13287.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
 2026-11-13,20188028,1,220.0,LP-LB-BG-010,Nat Habit Men Black Grape Fresh Infused Lip Butter with Ghee  Honey - 8g,Lip Balm
 2026-11-13,20188034,10,2200.0,LP-LB-BC-010,Nat Habit Beetroot Lip Butter with Desi Ghee & Honey for Natural Pink Lips - 8g,Lip Balm
 2026-11-13,20188036,8,1600.0,LP-LB-PR-010,Nat Habit Pomegranate Rose Lip Balm - Desi Ghee & Honey for Pigmentation & Chapped Lip-8g,Lip Balm
@@ -1646,7 +1642,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-13,25224060,2,338.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-13,25224062,8,1352.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-13,25247830,39,6825.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-13,25584294,133,35777.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-13,25584294,129,34701.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-13,25584296,4,1076.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-13,25915234,1,399.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
 2026-11-13,25915236,16,6000.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
@@ -1698,7 +1694,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-13,45514718,2,1416.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
 2026-11-13,45529079,3,1815.0,FC-CB-BUPG-02,Nat Habit Set Of 2 De-tan Ubtan Facewash - 100 g & Face Malai Moisturiser - 30 g,Skin Care Combo
 2026-11-14,19882878,2,394.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-14,19882880,15,2850.01,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
+2026-11-14,19882880,14,2651.01,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
 2026-11-14,19882882,1,567.0,AC-KNC-DNWT-03,"Nat Habit 3Pcs Kacchi Neem Wooden Comb Helps Control Frizz - Dual, Fine & Wide Teeth",Hair Brush and Comb
 2026-11-14,19882884,1,195.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-14,19882886,2,772.0,AC-KNC-DNT-02,Nat Habit 2pcs Kacchi Neem Wooden Comb - Soaked in 17 Herbs & Oils - Dual+ Fine Tooth Comb,Hair Brush and Comb
@@ -1709,7 +1705,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-14,20077852,1,314.0,HR-NM-TL3-040,"Nat Habit 3 Pcs Tri-Leaf Rosemary Nutri Hair Mask for Hairfall, Smooth & Shine Hair - 40g",Hair Masks
 2026-11-14,20077854,10,2500.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
 2026-11-14,20077856,1,314.0,HR-NM-NB3-040,Nat Habit Set of 3 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
-2026-11-14,20183310,17,3652.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
+2026-11-14,20183310,16,3433.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
 2026-11-14,20183314,1,219.0,FC-FL-LA-100,Nat Habit 100% Pure Fresh Distilled Lavender Flora Jal Toner For Skin Toning - 100ml,Toner
 2026-11-14,20185584,2,368.0,BC-CPS-SS-125,Nat Habit Sandalwood Soothing Cold Processed Soap-125 g,Soap
 2026-11-14,20185592,1,184.0,BC-CPS-NB-125,Nat Habit Sacred Neem Basil Cold Processed Soap 125 g,Soap
@@ -1719,7 +1715,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-14,20186070,1,312.0,HR-SHO-CS-100,Nat Habit Curry Sesame Summer Dasabuti Grey Hair Control Oil - 100ml,Hair Oil
 2026-11-14,20186072,19,6056.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
 2026-11-14,20186078,2,1088.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
-2026-11-14,20187194,7,1937.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
+2026-11-14,20187194,6,1658.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
 2026-11-14,20187196,31,9491.33,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
 2026-11-14,20188028,1,220.0,LP-LB-BG-010,Nat Habit Men Black Grape Fresh Infused Lip Butter with Ghee  Honey - 8g,Lip Balm
 2026-11-14,20188034,17,3863.0,LP-LB-BC-010,Nat Habit Beetroot Lip Butter with Desi Ghee & Honey for Natural Pink Lips - 8g,Lip Balm
@@ -1803,7 +1799,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-14,29957489,26,9062.0,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-14,29957490,6,2123.0,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-14,30348836,1,279.33,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
-2026-11-14,30348840,8,2351.0,HR-CN-HB-150,Nat Habit Five Oil Hibiscus Conditioner for Smooth Lush & Frizz-Free Hair - 150ml,Conditioner
+2026-11-14,30348840,7,2047.0,HR-CN-HB-150,Nat Habit Five Oil Hibiscus Conditioner for Smooth Lush & Frizz-Free Hair - 150ml,Conditioner
 2026-11-14,30348841,1,288.0,HR-CN-CB-150,Nat Habit Bio Activated Fresh Nutri Conditioner With Castor & Curd - 150ml,Conditioner
 2026-11-14,30856885,7,1224.0,HR-PHO-SB-050,"Nat Habit Post Henna Stain Boost Oil for Darkening, Nourishment & Shine - 50ml",Hair Oil
 2026-11-14,31678056,1,1569.0,FC-CM-CKM-010,Nat Habit Classical Kumkumadi Mukhalaya Face Oil with 26 Herbs - 10ml,Facial Oil
@@ -1811,7 +1807,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-14,31694660,1,305.0,FC-ML-WAR-015,Nat Habit Walnut Anaar Mukhalaya Face Oil - 15ml,Facial Oil
 2026-11-14,31700290,1,232.0,FC-KL-GK-040-MY,Nat Habit Gulab Khus Fresh Ksheer Lepa Face Mask With Rose Petals & Khus Roots - 40g,Mask and Peel
 2026-11-14,31700500,2,538.0,BA-PBO-VCO-100-MY,"Nat Habit 100% Pure Virgin Coconut Baby Oil with Vitamin E & Omega 3,6 - 100ml",Baby Body Oil
-2026-11-14,32476093,1,244.0,FC-FW-KMPA-100,Nat Habit Kali Miti Charcoal Deep Cleansing Face Wash For Anti-Pollution - 100 g,Face Wash and Cleanser
 2026-11-14,32563091,5,1329.0,HR-HIP-IP-85,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 85g - Black,Hair Colour
 2026-11-14,32563095,2,1128.0,HR-HIP-IP-170,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 170g - Black,Hair Colour
 2026-11-14,32829302,1,516.0,HR-HE-RASB-03-N,Nat Habit 2 Pcs Ready-To-Apply Henna & Post Henna Stain Boost Oil- 50 ml,Hair Oil
@@ -1841,7 +1836,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-14,47634028,1,375.0,FC-HDDM-TR-050,Nat Habit 48HR Malai Moisturiser - 20-35Yrs - Hot Dry Weather - 50 g ,Day Cream
 2026-11-15,19882878,4,796.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-15,19882880,19,3763.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
-2026-11-15,19882884,2,398.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
+2026-11-15,19882884,1,199.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-15,19882886,1,386.0,AC-KNC-DNT-02,Nat Habit 2pcs Kacchi Neem Wooden Comb - Soaked in 17 Herbs & Oils - Dual+ Fine Tooth Comb,Hair Brush and Comb
 2026-11-15,19882888,2,772.0,AC-KNC-DWT-02,Nat Habit 2Pcs Kacchi Neem Handmade Dual + Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-15,20077840,7,1540.0,HR-NM-TL2-040,Nat Habit 2Pcs Crushed Tri-Leaf NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
@@ -1861,7 +1856,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,20185590,1,184.0,BC-CPS-MR-125,Nat Habit Cold Processed Brightening Milk Rosehip Soap with Mango Butter - 125 g,Soap
 2026-11-15,20185592,2,368.0,BC-CPS-NB-125,Nat Habit Sacred Neem Basil Cold Processed Soap 125 g,Soap
 2026-11-15,20186052,1,504.0,HR-SHO-OA-200,Nat Habit Olive Almond Vit-E Summer Dasabuti Light  Non-Sticky Hair Oil- 200ml,Hair Oil
-2026-11-15,20186054,8,2280.0,HR-SHO-TL-100,Nat Habit Tri-Leaf Summer Dasabuti Hair Oil - Hair Fall Control & Ayurvedic Herbal - 100ml,Hair Oil
+2026-11-15,20186054,7,1995.0,HR-SHO-TL-100,Nat Habit Tri-Leaf Summer Dasabuti Hair Oil - Hair Fall Control & Ayurvedic Herbal - 100ml,Hair Oil
 2026-11-15,20186060,5,2548.0,HR-SHO-CS-200,Nat Habit Curry Sesame Summer Dasabuti Hair Oil with 15 Herbs for Oily & Curly Hair- 200ml,Hair Oil
 2026-11-15,20186064,2,938.0,HR-SHO-TL-200,Nat Habit TriLeaf Summer Dasabuti Hair Oil for Hair Fall Control & Growth - 200ml,Hair Oil
 2026-11-15,20186070,6,1878.0,HR-SHO-CS-100,Nat Habit Curry Sesame Summer Dasabuti Grey Hair Control Oil - 100ml,Hair Oil
@@ -1888,7 +1883,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,20191172,1,244.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
 2026-11-15,20191188,2,578.0,BC-CP-VC-100,Nat Habit 100% Pure Cold Pressed Virgin Coconut Oil for Deep Moisturisation - 100 ml,Hair Oil
 2026-11-15,20191804,4,1420.0,BC-EO-RM-015,"Nat Habit Rosemary Essential Oil for Hair Growth, Hair Fall Control Serum - 15ml",Massage Oils
-2026-11-15,20469790,1,165.0,AC-PFR-PS-00,Nat Habit Original Pumice Stone Callus Remover Foot Scrubber Exfoliates Dead Skin,Cleansing Tools and Massagers
 2026-11-15,20470060,3,699.0,AC-SDL-LO2-00,Nat Habit Set of 2 Natural Sun-Dried Loofah Body Sponge & Scrubber for Exfoliation,Loofah Sponges and Brushes
 2026-11-15,20470434,1,340.0,HR-MJ-GT-200,Nat Habit Hibiscus Hair Jal Post-Wash Serum Spray-200ML,Hair Serum
 2026-11-15,20470436,2,614.0,HR-MJ-CH-200,Nat Habit Methi Hair Jal Post-Wash Serum Spray-200ml,Hair Serum
@@ -1898,21 +1892,19 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,20470760,3,608.0,FC-KL-CN-040,Nat Habit Chandan Nagakesar Face Mask Lepa for Glowing & Brightening Skin - 40g,Mask and Peel
 2026-11-15,21304878,2,738.0,BA-WHO-BM-110,Nat Habit Brahmi Matsyakshi Winter Baby Hair & Scalp Oil for Healthy Growth - 110ml,Baby Hair Oil
 2026-11-15,21304902,4,1094.0,HR-HO-NB-100,Nat Habit Neem Bhringraj Winter Dasabuti Hair Oil for Anti Dandruff - 100 ml,Hair Oil
-2026-11-15,21304906,12,3821.0,HR-HO-HA-100,Nat Habit Hibiscus Amla Winter Dasabuti Hair Oil for Hair Growth & Thickness - 100ml,Hair Oil
+2026-11-15,21304906,11,3498.0,HR-HO-HA-100,Nat Habit Hibiscus Amla Winter Dasabuti Hair Oil for Hair Growth & Thickness - 100ml,Hair Oil
 2026-11-15,21304912,12,3355.0,HR-HO-TL-100,"Nat Habit Tri-Leaf Winter Dasabuti Hair Oil, Hair Fall Control, Ayurvedic Herbal - 100ml",Hair Oil
 2026-11-15,21930732,1,425.0,FC-FL-GU2-100,Nat Habit 2Pcs 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml each,Toner
 2026-11-15,21967106,1,396.0,BC-BU-MR2-080,Nat Habit Set Of 2 Fresh 2-Minute Masoor Rub Bath Ubtan 80 gm Each,Body Scrub and Exfoliator
 2026-11-15,21968004,1,191.0,BC-HM-CBB-025,Nat Habit Chia Banana Biotin Anti Brittle Nails Fresh Whipped Hand Malai Cream - 30 ml,Hand Cream
 2026-11-15,21968006,3,600.0,BC-HM-MCY-025,Nat Habit Mango Cinnamon Youth Anti Aging Spots Fresh  Wrinkle Whipped Hand Malai - 30 ml,Hand Cream
 2026-11-15,21968010,3,657.0,BC-HM-TRL-025,Nat Habit Tucuma Rose Light Skin Clarity  Brightening Fresh Whipped Hand Malai - 30 ml,Hand Cream
-2026-11-15,22006440,1,405.0,BC-HM-MCY2-025,Nat Habit Set of 2 Mango Cinnamon Youth Whipped Hand Malai - 30 ml Each,Hand Cream
 2026-11-15,22006446,3,1158.0,BC-HM-BVE2-025,Nat Habit Set of 2 Berry Vanilla Elastin Fresh Whipped Hand Malai - 30 ml Each,Hand Cream
 2026-11-15,22017968,7,2284.0,FC-DM-PG-030,Nat Habit Turmeric Face Malai Cream for Glow & Pigmentation with Nutmeg - 30g,Day Cream
 2026-11-15,22017970,5,1638.0,FC-DM-NR-030,Nat Habit Ayurvedic Coco Mogra Night Face Malai Cream with Vitamin E for Anti-Aging - 30g,Night Cream
 2026-11-15,22017972,5,1466.0,FC-DM-DP-030,Nat Habit Honey Multinut All Day Face Malai For Dry  Peeling Skin - 30gm,Day Cream
 2026-11-15,22036206,1,448.0,FC-KL-FM2-040,Nat Habit Set Of 2 Flaxseed Manjistha Fresh Ksheer Lepa - 40 g Each,Mask and Peel
-2026-11-15,22048752,50,17850.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
-2026-11-15,22158104,1,358.0,FC-CWDM-FW-030,Nat Habit Flax Walnut Malai Face Moisturizer with Vit E-C & Omega+ for Winters - 30g,Day Cream
+2026-11-15,22048752,48,17136.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
 2026-11-15,22158106,1,323.0,FC-HHDM-GAT-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Green Apple  Tulsi - 30 g,Day Cream
 2026-11-15,22158112,1,355.0,FC-HHDM-FC-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Flax  Carrot - 30 g,Day Cream
 2026-11-15,22158120,1,334.0,FC-HHDM-TV-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Tomato  Vetiver - 30 g,Day Cream
@@ -1949,7 +1941,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,25224056,2,398.0,AC-KNC-WTSL-00,Nat Habit Kacchi Neem Large Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils - Beige,Hair Brush and Comb
 2026-11-15,25224058,1,199.0,AC-KNC-FTSL-00,Nat Habit Kacchi Neem Large Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils - Beige,Hair Brush and Comb
 2026-11-15,25247830,52,9100.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-15,25584294,146,37930.29,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-15,25584294,144,37449.96,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-15,25584296,14,3654.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-15,25915234,1,363.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
 2026-11-15,25915236,13,4775.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
@@ -1963,7 +1955,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,29957486,5,1549.99,HR-SH-AP-250,Nat Habit Aloe Peanut Daily Use Navdha Shampoo for Soft & Moisturized Hair - 250ml,Shampoo
 2026-11-15,29957487,3,914.0,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
 2026-11-15,29957488,2,698.0,HR-SH-CC-250,"Nat Habit Curry Cider Navdha Shampoo for Shine, Moisture Strong Hair & 250ml",Shampoo
-2026-11-15,29957489,27,9723.14,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-15,29957489,26,9357.14,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-15,29957490,20,6743.44,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-15,30348836,1,288.0,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
 2026-11-15,30348838,5,1435.56,HR-CN-TR-150,Nat Habit Bio-activated Fresh Nutri Conditioner for Hair Fall Control- 150ml,Conditioner
@@ -1978,7 +1970,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,31700290,5,969.0,FC-KL-GK-040-MY,Nat Habit Gulab Khus Fresh Ksheer Lepa Face Mask With Rose Petals & Khus Roots - 40g,Mask and Peel
 2026-11-15,31700500,3,807.0,BA-PBO-VCO-100-MY,"Nat Habit 100% Pure Virgin Coconut Baby Oil with Vitamin E & Omega 3,6 - 100ml",Baby Body Oil
 2026-11-15,32476093,5,1092.0,FC-FW-KMPA-100,Nat Habit Kali Miti Charcoal Deep Cleansing Face Wash For Anti-Pollution - 100 g,Face Wash and Cleanser
-2026-11-15,32563091,10,2940.0,HR-HIP-IP-85,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 85g - Black,Hair Colour
+2026-11-15,32563091,9,2646.0,HR-HIP-IP-85,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 85g - Black,Hair Colour
 2026-11-15,32563092,2,2766.0,HR-HIP-IP-500,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 500g - Black,Hair Colour
 2026-11-15,32563095,2,1132.0,HR-HIP-IP-170,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 170g - Black,Hair Colour
 2026-11-15,32857900,1,407.0,BA-BML-TC-200,Nat Habit Baby Malai Lotion With Tender Coconut For Deep Nourishment - 200 ml,Baby Lotions and Creams
@@ -2007,7 +1999,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-15,44518871,1,939.0,HR-CB-RJSC-03,"Nat Habit Rosemary Hair Shampoo 250 ml ,Hair Conditioner 150 ml & Hair Spray 200 ml",Hair Care Combo
 2026-11-15,44534967,10,2754.0,HR-SH-ON-250,Nat Habit Anti Hair Fall Onion Shampoo - 250 ml,Shampoo
 2026-11-15,44808695,4,1576.0,BC-CPS-NLTB3-125,Nat Habit Set Of 3 Cold Processed Tomato Basil AHA-BHA Moisturising Soap - 125 g Each,Soap
-2026-11-15,45383808,14,7308.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
+2026-11-15,45383808,13,6786.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
 2026-11-15,45527357,2,1378.0,HR-SH-TR2-250,Nat Habit Set Of 2 Anti-HairFall Tri-Leaf Rosemary Navdha Shampoo - 250 ml Each,Shampoo
 2026-11-15,45529079,1,605.0,FC-CB-BUPG-02,Nat Habit Set Of 2 De-tan Ubtan Facewash - 100 g & Face Malai Moisturiser - 30 g,Skin Care Combo
 2026-11-15,45894497,2,800.0,FC-CWDM-TP-050,Nat Habit Tomato Patchouli Vit-BEC - 48 Hr Moisturization Face Malai - 50 g,Day Cream
@@ -2022,7 +2014,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-16,20077850,1,220.0,HR-NM-NB2-040,Nat Habit Set of 2 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-16,20077852,1,314.0,HR-NM-TL3-040,"Nat Habit 3 Pcs Tri-Leaf Rosemary Nutri Hair Mask for Hairfall, Smooth & Shine Hair - 40g",Hair Masks
 2026-11-16,20077854,15,3796.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
-2026-11-16,20183310,14,3066.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
+2026-11-16,20183310,13,2847.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
 2026-11-16,20183314,1,219.0,FC-FL-LA-100,Nat Habit 100% Pure Fresh Distilled Lavender Flora Jal Toner For Skin Toning - 100ml,Toner
 2026-11-16,20185580,2,368.0,BC-CPS-TO-125,Nat Habit Turmeric & Oats Healing Cold Processed Soap-125 g,Soap
 2026-11-16,20185590,1,184.0,BC-CPS-MR-125,Nat Habit Cold Processed Brightening Milk Rosehip Soap with Mango Butter - 125 g,Soap
@@ -2050,10 +2042,9 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-16,20190884,1,319.0,EC-UE-PN-009,Nat Habit Pure Netraa Under Eye Serum with Vitamin C-E & Retinol for Dark Circles - 9.2ml,Under Eye Creams and Serums
 2026-11-16,20191084,1,257.0,LP-LM-BR-012,Nat Habit Beetroot Rose Lip Scrub for Lip Lightening & Care - Chemical-Free - 12g,Lip Scrub
 2026-11-16,20191168,5,1595.0,BC-CP-CA-200,Nat Habit Cold Pressed 100% Pure Castor Oil with Vitamin E & Omega-6 for Skin & Hair-200ml,Hair Oil
-2026-11-16,20191172,4,1076.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
+2026-11-16,20191172,3,807.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
 2026-11-16,20191184,2,758.0,BC-CP-AL-050,Nat Habit 100% Pure Cold Pressed Almond Body Oil for Deep Moisturisation - 50 ml,Massage Oils
 2026-11-16,20191188,1,289.0,BC-CP-VC-100,Nat Habit 100% Pure Cold Pressed Virgin Coconut Oil for Deep Moisturisation - 100 ml,Hair Oil
-2026-11-16,20191804,2,708.0,BC-EO-RM-015,"Nat Habit Rosemary Essential Oil for Hair Growth, Hair Fall Control Serum - 15ml",Massage Oils
 2026-11-16,20469790,2,330.0,AC-PFR-PS-00,Nat Habit Original Pumice Stone Callus Remover Foot Scrubber Exfoliates Dead Skin,Cleansing Tools and Massagers
 2026-11-16,20470060,7,1631.0,AC-SDL-LO2-00,Nat Habit Set of 2 Natural Sun-Dried Loofah Body Sponge & Scrubber for Exfoliation,Loofah Sponges and Brushes
 2026-11-16,20470434,3,1017.0,HR-MJ-GT-200,Nat Habit Hibiscus Hair Jal Post-Wash Serum Spray-200ML,Hair Serum
@@ -2073,10 +2064,10 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-16,21968010,1,219.0,BC-HM-TRL-025,Nat Habit Tucuma Rose Light Skin Clarity  Brightening Fresh Whipped Hand Malai - 30 ml,Hand Cream
 2026-11-16,22006442,3,1332.0,BC-HM-4BM2-025,Nat Habit Set of 2 4 Butter Mush Fresh Whipped Hand Malai Cream - 30 ml Each,Hand Cream
 2026-11-16,22006446,1,386.0,BC-HM-BVE2-025,Nat Habit Set of 2 Berry Vanilla Elastin Fresh Whipped Hand Malai - 30 ml Each,Hand Cream
-2026-11-16,22017968,3,1065.0,FC-DM-PG-030,Nat Habit Turmeric Face Malai Cream for Glow & Pigmentation with Nutmeg - 30g,Day Cream
+2026-11-16,22017968,2,710.0,FC-DM-PG-030,Nat Habit Turmeric Face Malai Cream for Glow & Pigmentation with Nutmeg - 30g,Day Cream
 2026-11-16,22017970,1,355.0,FC-DM-NR-030,Nat Habit Ayurvedic Coco Mogra Night Face Malai Cream with Vitamin E for Anti-Aging - 30g,Night Cream
 2026-11-16,22017972,2,668.0,FC-DM-DP-030,Nat Habit Honey Multinut All Day Face Malai For Dry  Peeling Skin - 30gm,Day Cream
-2026-11-16,22048752,30,10710.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
+2026-11-16,22048752,29,10353.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
 2026-11-16,22158104,4,1436.0,FC-CWDM-FW-030,Nat Habit Flax Walnut Malai Face Moisturizer with Vit E-C & Omega+ for Winters - 30g,Day Cream
 2026-11-16,22158108,1,394.0,FC-HDDM-TR-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Tomato  Rosehip - 30 g,Day Cream
 2026-11-16,22185992,3,2043.0,HR-HE-RA4-250,Nat Habit 4Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
@@ -2090,7 +2081,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-16,22615812,2,714.0,CB-CPS-MS2-125,Nat Habit Cold Processed Butter Set Of 2 Brightening   Soothing Soap Bars-125g Each,Soap
 2026-11-16,22615814,1,357.0,CB-CPS-OS2-125,Nat Habit 2Pcs Exfoliating Orange Butter Soap for Skin Brightening & Tan Removal-125g each,Soap
 2026-11-16,22625476,1,338.0,AC-SDL-LO3-00,Nat Habit Set of 3 Back To Natural Sun-Dried Loofah Body Sponge & Scrubber,Loofah Sponges and Brushes
-2026-11-16,22675832,2,560.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
+2026-11-16,22675832,1,280.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
 2026-11-16,22675834,1,349.0,BC-PO-OL-200,Nat Habit Pure Non-Refined Olive Oil for Hair Growth & Skin Care - 200ml,Hair Oil
 2026-11-16,22675836,3,597.0,BC-PO-CO-200,Nat Habit Non-Refined LLP-Free Pure Coconut Oil - 200ml,Hair Oil
 2026-11-16,22788616,1,559.0,BA-PBO-AL-100,"Nat Habit Pure Almond Baby Oil Enriched with Vit E  Omega-3, 6 - 100ml",Baby Body Oil
@@ -2103,17 +2094,16 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-16,25224058,1,199.0,AC-KNC-FTSL-00,Nat Habit Kacchi Neem Large Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils - Beige,Hair Brush and Comb
 2026-11-16,25224062,2,338.0,AC-KNC-WTB-00,Nat Habit Kacchi Neem Handmade Wooden Wide Tooth Bounce Comb for Long Thick Hair,Hair Brush and Comb
 2026-11-16,25247830,38,6675.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-16,25584294,116,31204.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
-2026-11-16,25584296,13,3497.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
+2026-11-16,25584294,114,30666.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-16,25584296,12,3228.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-16,25915234,3,1197.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
 2026-11-16,25915236,12,4500.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
 2026-11-16,25915238,3,1125.0,BC-BL-MNS-250MY,Nat Habit Multi-Nut Omega 3 Moisturiser Body Cream With Almond & Walnut Skin Repair 250 ml,Body Cream and Lotion
 2026-11-16,25915240,3,1020.0,BC-BL-AS-250MY,Nat Habit Fresh Whipped Body Lotion With Aloe Vera & Shea Butter For Smooth Skin 250 g,Body Cream and Lotion
 2026-11-16,29552344,1,472.0,CB-KNC-BPDT-03,Nat Habit 3Pcs Kacchi Neem Dual + Bounce + Pocket Wooden Teeth Comb for Long Hairs,Hair Brush and Comb
-2026-11-16,29957486,1,355.0,HR-SH-AP-250,Nat Habit Aloe Peanut Daily Use Navdha Shampoo for Soft & Moisturized Hair - 250ml,Shampoo
-2026-11-16,29957487,4,1409.61,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
+2026-11-16,29957487,3,1054.61,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
 2026-11-16,29957488,1,348.0,HR-SH-CC-250,"Nat Habit Curry Cider Navdha Shampoo for Shine, Moisture Strong Hair & 250ml",Shampoo
-2026-11-16,29957489,35,12775.42,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-16,29957489,34,12410.42,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-16,29957490,8,2829.61,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-16,30348836,2,576.0,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
 2026-11-16,30348838,1,285.39,HR-CN-TR-150,Nat Habit Bio-activated Fresh Nutri Conditioner for Hair Fall Control- 150ml,Conditioner
@@ -2177,10 +2167,10 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-17,20185594,1,357.0,BC-CPS-MR2-125,Nat Habit Set of 2 Milk  Rosehip Brightening Cold Processed Soap-125 g (Each),Soap
 2026-11-17,20186054,4,1148.0,HR-SHO-TL-100,Nat Habit Tri-Leaf Summer Dasabuti Hair Oil - Hair Fall Control & Ayurvedic Herbal - 100ml,Hair Oil
 2026-11-17,20186060,2,1040.0,HR-SHO-CS-200,Nat Habit Curry Sesame Summer Dasabuti Hair Oil with 15 Herbs for Oily & Curly Hair- 200ml,Hair Oil
-2026-11-17,20186062,3,861.0,HR-SHO-NB-100,Nat Habit Neem Bhringraj Anti-Dandruff Summer Hair Oil with Tea Tree & Castor - 200ml,Hair Oil
+2026-11-17,20186062,2,574.0,HR-SHO-NB-100,Nat Habit Neem Bhringraj Anti-Dandruff Summer Hair Oil with Tea Tree & Castor - 200ml,Hair Oil
 2026-11-17,20186064,1,470.0,HR-SHO-TL-200,Nat Habit TriLeaf Summer Dasabuti Hair Oil for Hair Fall Control & Growth - 200ml,Hair Oil
 2026-11-17,20186070,2,624.0,HR-SHO-CS-100,Nat Habit Curry Sesame Summer Dasabuti Grey Hair Control Oil - 100ml,Hair Oil
-2026-11-17,20186072,7,2254.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
+2026-11-17,20186072,6,1932.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
 2026-11-17,20186078,2,1078.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
 2026-11-17,20187194,2,558.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
 2026-11-17,20187196,13,4017.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
@@ -2193,12 +2183,12 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-17,20189032,1,490.0,FC-ML-PMJ-030,Nat Habit Aging  Wrinkle Protection Pure Patchouli Manjistha Mukhalaya 30 ml,Facial Oil
 2026-11-17,20189036,1,429.0,FC-ML-WAR-030,Nat Habit Deep Nourishment Pure Walnut Anaar Mukhalaya for Dry Skin 30 ml,Facial Oil
 2026-11-17,20190884,1,319.0,EC-UE-PN-009,Nat Habit Pure Netraa Under Eye Serum with Vitamin C-E & Retinol for Dark Circles - 9.2ml,Under Eye Creams and Serums
-2026-11-17,20191072,2,686.0,LP-LM-BR-020,Nat Habit Beetroot Rose Fresh Crushed Lip Mura For Lush Pink Lips - 20g,Lip Scrub
-2026-11-17,20191168,3,957.0,BC-CP-CA-200,Nat Habit Cold Pressed 100% Pure Castor Oil with Vitamin E & Omega-6 for Skin & Hair-200ml,Hair Oil
+2026-11-17,20191072,1,343.0,LP-LM-BR-020,Nat Habit Beetroot Rose Fresh Crushed Lip Mura For Lush Pink Lips - 20g,Lip Scrub
+2026-11-17,20191168,2,638.0,BC-CP-CA-200,Nat Habit Cold Pressed 100% Pure Castor Oil with Vitamin E & Omega-6 for Skin & Hair-200ml,Hair Oil
 2026-11-17,20191172,5,1345.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
 2026-11-17,20191176,1,359.0,BC-CP-CO-200,Nat Habit 100% Pure Cold Pressed Coconut Body Oil to Prevents Skin Aging - 200 ml,Massage Oils
 2026-11-17,20191186,1,279.0,BC-CP-JO-030,Nat Habit 100% Pure Cold Pressed Jojoba Body Oil for Skin Moisturisation - 30 ml,Massage Oils
-2026-11-17,20191190,2,698.0,BC-CP-NE-200,Nat Habit 100% Pure Cold Pressed Neem Oil to Treats Acne - 200 ml,Hair Oil
+2026-11-17,20191190,1,349.0,BC-CP-NE-200,Nat Habit 100% Pure Cold Pressed Neem Oil to Treats Acne - 200 ml,Hair Oil
 2026-11-17,20191794,1,284.0,BC-EO-EU-015,Nat Habit 100% Pure Eucalyptus Essential Oil to Relieves Muscle Aches - 15 ml,Massage Oils
 2026-11-17,20191796,1,394.0,BC-EO-LV-015,Nat Habit 100% Pure Lavender Essential Oil to Treat Acne - 15 ml,Massage Oils
 2026-11-17,20469790,1,165.0,AC-PFR-PS-00,Nat Habit Original Pumice Stone Callus Remover Foot Scrubber Exfoliates Dead Skin,Cleansing Tools and Massagers
@@ -2255,21 +2245,21 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-17,24264044,5,1345.0,FC-FW-MVCR-100,Nat Habit Moringa Vitamin-C Natural Face Wash for Pimple & Oil Control - 100g,Face Wash and Cleanser
 2026-11-17,24265124,7,1988.0,FC-FW-BNGL-100,Nat Habit Anti Acne Facewash - 100g,Face Wash and Cleanser
 2026-11-17,25219186,2,478.0,FC-FW-RCGL-100,Nat Habit Men's Brightening & Oil Balance Tikta Face Wash - 100 g,Face Wash and Cleanser
-2026-11-17,25224054,15,2535.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
+2026-11-17,25224054,14,2366.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-17,25224058,1,199.0,AC-KNC-FTSL-00,Nat Habit Kacchi Neem Large Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils - Beige,Hair Brush and Comb
 2026-11-17,25224060,2,338.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-17,25247830,42,7350.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-17,25584294,136,36584.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-17,25247830,40,7000.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-17,25584294,134,36046.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-17,25584296,16,4304.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-17,25915234,4,1596.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
-2026-11-17,25915236,15,5625.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
+2026-11-17,25915236,14,5250.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
 2026-11-17,25915238,1,375.0,BC-BL-MNS-250MY,Nat Habit Multi-Nut Omega 3 Moisturiser Body Cream With Almond & Walnut Skin Repair 250 ml,Body Cream and Lotion
 2026-11-17,25915240,1,340.0,BC-BL-AS-250MY,Nat Habit Fresh Whipped Body Lotion With Aloe Vera & Shea Butter For Smooth Skin 250 g,Body Cream and Lotion
 2026-11-17,25948204,1,429.0,FC-AC-AC-050MY,Nat Habit Active Hydra Lift Gel With Aloe Cactus - 50g,Serum and Gel
 2026-11-17,29552344,1,472.0,CB-KNC-BPDT-03,Nat Habit 3Pcs Kacchi Neem Dual + Bounce + Pocket Wooden Teeth Comb for Long Hairs,Hair Brush and Comb
 2026-11-17,29957486,2,710.0,HR-SH-AP-250,Nat Habit Aloe Peanut Daily Use Navdha Shampoo for Soft & Moisturized Hair - 250ml,Shampoo
 2026-11-17,29957487,1,355.0,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
-2026-11-17,29957489,37,13483.14,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-17,29957489,35,12753.14,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-17,29957490,10,3550.0,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-17,30348836,1,288.0,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
 2026-11-17,30348838,1,294.0,HR-CN-TR-150,Nat Habit Bio-activated Fresh Nutri Conditioner for Hair Fall Control- 150ml,Conditioner
@@ -2301,7 +2291,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-17,36861821,6,3786.0,HR-HE-RA2H-85,Nat Habit Set Of 3 Pigment Indigo Powder- 85 g & Henna Powder- 220 g Each,Hair Masks
 2026-11-17,38721870,2,1716.0,HB,Nat Habit Five Oil Hibiscus Navdha Shampoo-650 ml,Shampoo
 2026-11-17,38737189,6,2772.0,HC,Nat Habit Set Of 2 Henna 220 g & Indigo Powder Hair Mask- 85 g Each,Hair Masks
-2026-11-17,43966032,7,2415.0,HR-SH-NB-250,Nat Habit Anti-Dandruff Neem Beracyl Navdha Shampoo - 250 ml,Shampoo
+2026-11-17,43966032,6,2070.0,HR-SH-NB-250,Nat Habit Anti-Dandruff Neem Beracyl Navdha Shampoo - 250 ml,Shampoo
 2026-11-17,44496703,1,424.0,FC-CWDM-FW-050,Nat Habit Fresh Whipped All-day Malai Spf Activated Moisturiser - 50 g,Day Cream
 2026-11-17,44496991,1,375.0,FC-HHDM-TV-050,Nat Habit 48HR Malai Moisturiser - 20-35Yrs - Hot Humid Weather - 50 g,Day Cream
 2026-11-17,44514835,2,1916.0,HR-CB-HJSC-03,"Nat Habit Set Of 3 Hibiscus Hair Spray - 200 ml, Shampoo - 250 ml With Conditioner - 150ml",Hair Care Combo
@@ -2314,7 +2304,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-17,46625824,1,522.0,FC-FW-MDPA2-100,Nat Habit Set Of 2 Grandma's Youth Restore Masoor Dal Face Wash - 100 g Each,Face Wash and Cleanser
 2026-11-17,47634028,1,375.0,FC-HDDM-TR-050,Nat Habit 48HR Malai Moisturiser - 20-35Yrs - Hot Dry Weather - 50 g ,Day Cream
 2026-11-18,19882878,4,796.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-18,19882880,21,4215.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
+2026-11-18,19882880,20,4016.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
 2026-11-18,19882884,1,199.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-18,19882886,1,386.0,AC-KNC-DNT-02,Nat Habit 2pcs Kacchi Neem Wooden Comb - Soaked in 17 Herbs & Oils - Dual+ Fine Tooth Comb,Hair Brush and Comb
 2026-11-18,19882888,4,1544.0,AC-KNC-DWT-02,Nat Habit 2Pcs Kacchi Neem Handmade Dual + Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
@@ -2323,7 +2313,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,20077844,12,4272.0,HR-NM-HB3-040,Nat Habit 3Pcs Five Oil Hibiscus Nutri Hair Mask for Conditioning & Strengthening-40g each,Hair Masks
 2026-11-18,20077850,5,1100.0,HR-NM-NB2-040,Nat Habit Set of 2 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
 2026-11-18,20077852,1,314.0,HR-NM-TL3-040,"Nat Habit 3 Pcs Tri-Leaf Rosemary Nutri Hair Mask for Hairfall, Smooth & Shine Hair - 40g",Hair Masks
-2026-11-18,20077854,7,1750.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
+2026-11-18,20077854,6,1500.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
 2026-11-18,20183308,1,219.0,FC-FL-MO-100,Nat Habit 100% Pure Fresh Distilled Mogra Flora Jal Toner For Skin Toning - 100ml,Toner
 2026-11-18,20183310,12,2628.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
 2026-11-18,20185568,1,357.0,BC-CPS-DC2-125,Nat Habit Set of 2 Charcoal Detox Cold Processed Soap-125 g (Each),Soap
@@ -2338,7 +2328,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,20187194,2,558.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
 2026-11-18,20187196,21,6489.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
 2026-11-18,20188028,1,220.0,LP-LB-BG-010,Nat Habit Men Black Grape Fresh Infused Lip Butter with Ghee  Honey - 8g,Lip Balm
-2026-11-18,20188034,17,3740.0,LP-LB-BC-010,Nat Habit Beetroot Lip Butter with Desi Ghee & Honey for Natural Pink Lips - 8g,Lip Balm
+2026-11-18,20188034,16,3520.0,LP-LB-BC-010,Nat Habit Beetroot Lip Butter with Desi Ghee & Honey for Natural Pink Lips - 8g,Lip Balm
 2026-11-18,20188036,13,2600.0,LP-LB-PR-010,Nat Habit Pomegranate Rose Lip Balm - Desi Ghee & Honey for Pigmentation & Chapped Lip-8g,Lip Balm
 2026-11-18,20189028,2,1000.0,FC-ML-STR-030,Nat Habit Pure Saffron Tuberose Mukhalaya for Prime Radiance Glow 30 ml,Facial Oil
 2026-11-18,20189034,3,1425.0,FC-ML-TRH-030,Nat Habit Turmeric Rosehip Mukhalaya Face Oil for Natural Face Care & Blemish Control-30ml,Facial Oil
@@ -2346,7 +2336,6 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,20191072,1,343.0,LP-LM-BR-020,Nat Habit Beetroot Rose Fresh Crushed Lip Mura For Lush Pink Lips - 20g,Lip Scrub
 2026-11-18,20191084,2,514.0,LP-LM-BR-012,Nat Habit Beetroot Rose Lip Scrub for Lip Lightening & Care - Chemical-Free - 12g,Lip Scrub
 2026-11-18,20191168,5,1595.0,BC-CP-CA-200,Nat Habit Cold Pressed 100% Pure Castor Oil with Vitamin E & Omega-6 for Skin & Hair-200ml,Hair Oil
-2026-11-18,20191170,1,519.0,BC-CP-AR-030,Nat Habit 100% Pure Cold Pressed Argan Body Oil to Prevents Stretch Marks - 30 ml,Massage Oils
 2026-11-18,20191172,2,538.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
 2026-11-18,20191178,1,499.0,BC-CP-VC-200,Nat Habit 100% Pure Cold Pressed Virgin Coconut Body Oil for Deep Moisturisation - 200 ml,Massage Oils
 2026-11-18,20191186,1,279.0,BC-CP-JO-030,Nat Habit 100% Pure Cold Pressed Jojoba Body Oil for Skin Moisturisation - 30 ml,Massage Oils
@@ -2371,7 +2360,7 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,21968006,6,1254.0,BC-HM-MCY-025,Nat Habit Mango Cinnamon Youth Anti Aging Spots Fresh  Wrinkle Whipped Hand Malai - 30 ml,Hand Cream
 2026-11-18,22006440,1,405.0,BC-HM-MCY2-025,Nat Habit Set of 2 Mango Cinnamon Youth Whipped Hand Malai - 30 ml Each,Hand Cream
 2026-11-18,22017968,5,1775.0,FC-DM-PG-030,Nat Habit Turmeric Face Malai Cream for Glow & Pigmentation with Nutmeg - 30g,Day Cream
-2026-11-18,22048752,38,13633.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
+2026-11-18,22048752,36,12919.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
 2026-11-18,22158104,1,359.0,FC-CWDM-FW-030,Nat Habit Flax Walnut Malai Face Moisturizer with Vit E-C & Omega+ for Winters - 30g,Day Cream
 2026-11-18,22158106,1,322.0,FC-HHDM-GAT-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Green Apple  Tulsi - 30 g,Day Cream
 2026-11-18,22158116,1,339.0,FC-CWDM-TP-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Tomato & Patchouli - 30 g,Day Cream
@@ -2386,11 +2375,11 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,22228532,2,690.0,BC-SM-RFR-120,Nat Habit Fig Rose Prima Light Body Butter Body Moisturisation Skin Brightening - 120ml,Body Butter
 2026-11-18,22295988,2,1090.0,BC-SM-MNS-200,Nat Habit Multi-Nut Shea Omega-3 Fresh Whipped Skin Malai Body Butter - 200 ml,Body Butter
 2026-11-18,22295992,3,1035.0,BC-SM-MNS-120,Nat Habit Multi-Nut Shea Omega-3 Fresh Whipped Skin Malai Body Butter - 120 ml,Body Butter
-2026-11-18,22295996,6,3450.0,BC-SM-CID-200,Nat Habit Double Cocoa Intense Derma Care Fresh Whipped Skin Malai Body Butter - 200 ml,Body Butter
+2026-11-18,22295996,5,2875.0,BC-SM-CID-200,Nat Habit Double Cocoa Intense Derma Care Fresh Whipped Skin Malai Body Butter - 200 ml,Body Butter
 2026-11-18,22295998,2,1090.0,BC-SM-RFR-200,Nat Habit Fig Rose Primalight Skin Cold Cream for Skin Brightening & 24 HR Moisture- 200ml,Body Butter
 2026-11-18,22554264,1,398.0,CB-KNC-DTLN-03,Nat Habit Set Of Oil Treated Kacchi Neem Comb & 2 Pcs Crushed TriLeaf Fresh Hair NutriMask,Hair Care Combo
 2026-11-18,22583766,1,456.0,FC-HG-OV2-080,Nat Habit Set of 2 Fresh Olive Vit-E Night Gel for Aging Protection - 160g,Serum and Gel
-2026-11-18,22675832,2,560.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
+2026-11-18,22675832,1,280.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
 2026-11-18,22675836,2,398.0,BC-PO-CO-200,Nat Habit Non-Refined LLP-Free Pure Coconut Oil - 200ml,Hair Oil
 2026-11-18,22675838,1,499.0,BC-PO-AL-100,Nat Habit Non-Refined LLP-Free Pure Almond Oil - 100ml,Hair Oil
 2026-11-18,22788608,1,469.0,BA-PBO-OL-200,Nat Habit Olive Baby Oil with Vitamin E & Omega-3 - Non-Refined & Chemical-Free - 200ml,Baby Body Oil
@@ -2403,8 +2392,8 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,25219186,2,478.0,FC-FW-RCGL-100,Nat Habit Men's Brightening & Oil Balance Tikta Face Wash - 100 g,Face Wash and Cleanser
 2026-11-18,25224054,16,2704.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
 2026-11-18,25224060,2,338.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
-2026-11-18,25247830,51,8950.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
-2026-11-18,25584294,195,52281.99,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-18,25247830,48,8425.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-18,25584294,192,51474.99,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
 2026-11-18,25584296,12,3228.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
 2026-11-18,25915234,1,399.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
 2026-11-18,25915236,17,6375.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
@@ -2417,13 +2406,13 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,29957486,1,355.0,HR-SH-AP-250,Nat Habit Aloe Peanut Daily Use Navdha Shampoo for Soft & Moisturized Hair - 250ml,Shampoo
 2026-11-18,29957487,2,710.0,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
 2026-11-18,29957488,4,1392.0,HR-SH-CC-250,"Nat Habit Curry Cider Navdha Shampoo for Shine, Moisture Strong Hair & 250ml",Shampoo
-2026-11-18,29957489,29,10574.07,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-18,29957489,28,10209.07,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-18,29957490,11,3894.61,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
 2026-11-18,30348836,1,288.0,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
 2026-11-18,30348838,2,579.39,HR-CN-TR-150,Nat Habit Bio-activated Fresh Nutri Conditioner for Hair Fall Control- 150ml,Conditioner
 2026-11-18,30348839,1,294.0,HR-CN-AP-150,Nat Habit Aloe Peanut Conditioner-150ml,Conditioner
-2026-11-18,30348840,9,2726.93,HR-CN-HB-150,Nat Habit Five Oil Hibiscus Conditioner for Smooth Lush & Frizz-Free Hair - 150ml,Conditioner
-2026-11-18,30348841,2,588.0,HR-CN-CB-150,Nat Habit Bio Activated Fresh Nutri Conditioner With Castor & Curd - 150ml,Conditioner
+2026-11-18,30348840,8,2422.93,HR-CN-HB-150,Nat Habit Five Oil Hibiscus Conditioner for Smooth Lush & Frizz-Free Hair - 150ml,Conditioner
+2026-11-18,30348841,1,294.0,HR-CN-CB-150,Nat Habit Bio Activated Fresh Nutri Conditioner With Castor & Curd - 150ml,Conditioner
 2026-11-18,30856885,2,382.0,HR-PHO-SB-050,"Nat Habit Post Henna Stain Boost Oil for Darkening, Nourishment & Shine - 50ml",Hair Oil
 2026-11-18,31622843,1,450.0,BC-CP-JO-050,Nat Habit Pure Cold Pressed Jojoba Oil With Vitamin E - 50 ml,Massage Oils
 2026-11-18,31678052,3,1452.0,BC-CP-RH-030,Nat Habit 100% Pure Cold Pressed Rosehip Oil - 30ml,Facial Oil
@@ -2458,3 +2447,160 @@ date,style_id,units,revenue,seller_sku,style_name,article_type
 2026-11-18,45529079,3,1815.0,FC-CB-BUPG-02,Nat Habit Set Of 2 De-tan Ubtan Facewash - 100 g & Face Malai Moisturiser - 30 g,Skin Care Combo
 2026-11-18,45894497,1,400.0,FC-CWDM-TP-050,Nat Habit Tomato Patchouli Vit-BEC - 48 Hr Moisturization Face Malai - 50 g,Day Cream
 2026-11-18,47634028,1,375.0,FC-HDDM-TR-050,Nat Habit 48HR Malai Moisturiser - 20-35Yrs - Hot Dry Weather - 50 g ,Day Cream
+2026-11-19,19882878,4,796.0,AC-KNC-WT-00,Nat Habit Kacchi Neem Handmade Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
+2026-11-19,19882880,17,3383.0,AC-KNC-DT-00,Nat Habit Kacchi Neem Dual Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Frizz Control,Hair Brush and Comb
+2026-11-19,19882884,3,597.0,AC-KNC-NT-00,Nat Habit Kacchi Neem Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
+2026-11-19,19882888,1,386.0,AC-KNC-DWT-02,Nat Habit 2Pcs Kacchi Neem Handmade Dual + Wide Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
+2026-11-19,20077840,4,880.0,HR-NM-TL2-040,Nat Habit 2Pcs Crushed Tri-Leaf NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
+2026-11-19,20077842,2,500.0,HR-NM-CS2-040,Nat Habit Set of 2 Curry Sesame Fresh Hair NutriMask For Grey Hair Control - 40g Each,Hair Masks
+2026-11-19,20077844,7,2492.0,HR-NM-HB3-040,Nat Habit 3Pcs Five Oil Hibiscus Nutri Hair Mask for Conditioning & Strengthening-40g each,Hair Masks
+2026-11-19,20077846,1,399.0,HR-NM-MR3-040,Nat Habit Set of 3 Mens Revital Fresh Hair NutriMask For Dandruff  Anti-Greying-40g Each,Hair Masks
+2026-11-19,20077848,2,712.0,HR-NM-CS3-040,Nat Habit Set of 3 Curry Sesame Fresh Hair NutriMask For Grey Hair Control - 40g Each,Hair Masks
+2026-11-19,20077850,2,440.0,HR-NM-NB2-040,Nat Habit Set of 2 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
+2026-11-19,20077854,17,4250.0,HR-NM-HB2-040,Nat Habit 2Pcs Five Oil Hibiscus NutriMask Hair Mask for Smooth & Shine Hair - 40g each,Hair Masks
+2026-11-19,20077856,1,314.0,HR-NM-NB3-040,Nat Habit Set of 3 Neem  Bhringraj Blend Hair NutriMask For Anti-Dandruff - 40g Each,Hair Masks
+2026-11-19,20077860,1,280.0,HR-NM-MR2-040,Nat Habit Set of 2 Men's Revital Fresh Hair NutriMask For Dandruff  - 40g Each,Hair Masks
+2026-11-19,20183306,1,624.0,FC-FL-GU3-100,Nat Habit 3Pcs 100% Pure Gulab Jal Rose Water for Pore Reduction & Acne Control-100ml each,Toner
+2026-11-19,20183310,9,1971.0,FC-FL-GU-100,Nat Habit 100% Pure Gulab Jal Rose Water for Pore Reduction & Hydration - 100ml,Toner
+2026-11-19,20185572,1,357.0,BC-CPS-SS2-125,Nat Habit Set of 2 Cold Processed Sandalwood Butter Soap for Tan Removal - 125g Each,Soap
+2026-11-19,20185578,1,357.0,BC-CPS-WA2-125,Nat Habit Set of 2 Cold Processed Wild Apricot Soaps with Kokum Butter - 125 g Each,Soap
+2026-11-19,20185586,1,357.0,BC-CPS-TO2-125,Nat Habit 2Pcs Healing Turmeric-Oats Bath Soap for Tan & Scar Removal - 125g each,Soap
+2026-11-19,20185590,1,184.0,BC-CPS-MR-125,Nat Habit Cold Processed Brightening Milk Rosehip Soap with Mango Butter - 125 g,Soap
+2026-11-19,20186054,2,574.0,HR-SHO-TL-100,Nat Habit Tri-Leaf Summer Dasabuti Hair Oil - Hair Fall Control & Ayurvedic Herbal - 100ml,Hair Oil
+2026-11-19,20186060,1,520.0,HR-SHO-CS-200,Nat Habit Curry Sesame Summer Dasabuti Hair Oil with 15 Herbs for Oily & Curly Hair- 200ml,Hair Oil
+2026-11-19,20186070,2,624.0,HR-SHO-CS-100,Nat Habit Curry Sesame Summer Dasabuti Grey Hair Control Oil - 100ml,Hair Oil
+2026-11-19,20186072,11,3542.0,HR-SHO-HA-100,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 100ml,Hair Oil
+2026-11-19,20186074,1,470.0,HR-SHO-NB-200,Nat Habit Neem Bhringraj Summer Dasabuti Hair Oil For Anti-Dandruff Blend - 200ml,Hair Oil
+2026-11-19,20186078,3,1617.0,HR-SHO-HA-200,Nat Habit Hibiscus Amla Summer Dasabuti Hair Oil for Hair Growth & Fall Control - 200ml,Hair Oil
+2026-11-19,20187194,2,588.0,HR-HB-AM-025,Nat Habit Almond Marula Post-Wash Hair Balm for Split Ends & Conditioning - 25 ml,Hair Gels and Wax
+2026-11-19,20187196,14,4326.0,HR-HB-AG-025,"Nat Habit Argan Grapeseed Hair Balm for Split Ends, Smoothening & Conditioning - 25ml",Hair Gels and Wax
+2026-11-19,20188034,15,3300.0,LP-LB-BC-010,Nat Habit Beetroot Lip Butter with Desi Ghee & Honey for Natural Pink Lips - 8g,Lip Balm
+2026-11-19,20188036,12,2400.0,LP-LB-PR-010,Nat Habit Pomegranate Rose Lip Balm - Desi Ghee & Honey for Pigmentation & Chapped Lip-8g,Lip Balm
+2026-11-19,20188038,1,280.0,LP-LB-OM-010,Nat Habit Orange Marigold Lip Butter for Lip Pigmentation & Chapped Lips - 8g,Lip Balm
+2026-11-19,20188040,1,280.0,LP-LB-KH-010,Nat Habit Kokum Honey Fresh Infused Lip Butter with Ghee  Honey - 8g,Lip Balm
+2026-11-19,20188410,1,233.0,FC-DU-SO2-040,Nat Habit Set of 2 Sweet Orange Fresh Daily Ubtan 40 g (Each),Mask and Peel
+2026-11-19,20188636,1,369.0,BA-SHO-BM-110,Nat Habit Summer Dasabuti Baby Hair Scalp Oil with Desi Cow Ghee - 110 ml,Baby Hair Oil
+2026-11-19,20188640,1,369.0,BA-SMA-BN-100,Nat Habit Pure Maahu Baby Body Massage Oil for Bone Development - 100 ml,Baby Body Oil
+2026-11-19,20189028,2,1000.0,FC-ML-STR-030,Nat Habit Pure Saffron Tuberose Mukhalaya for Prime Radiance Glow 30 ml,Facial Oil
+2026-11-19,20189034,3,1425.0,FC-ML-TRH-030,Nat Habit Turmeric Rosehip Mukhalaya Face Oil for Natural Face Care & Blemish Control-30ml,Facial Oil
+2026-11-19,20189198,3,495.0,FT-FS-LU2-050,Nat Habit Set of 2 Therapeutic Lavender Unwind Foot Salt with Fresh Rose - 54 g Each,Bath Salt and Bubble Bath
+2026-11-19,20189202,2,330.0,FT-FS-CR2-050,Nat Habit Set of 2 Therapeutic Cinnamon Respite Foot Salt with Fresh Marigold - 54 g Each,Bath Salt and Bubble Bath
+2026-11-19,20190528,1,624.0,BC-MA-GM-200,Nat Habit Pure Maahu Ginger Maricha Body Massage Oil for Fat Reduction - 200 ml,Massage Oils
+2026-11-19,20190884,1,319.0,EC-UE-PN-009,Nat Habit Pure Netraa Under Eye Serum with Vitamin C-E & Retinol for Dark Circles - 9.2ml,Under Eye Creams and Serums
+2026-11-19,20191076,1,227.0,LP-LM-ZO-012,Nat Habit Zesty Orange Fresh Crushed Lip Mura For De-Pigmentation - 12g,Lip Scrub
+2026-11-19,20191084,1,257.0,LP-LM-BR-012,Nat Habit Beetroot Rose Lip Scrub for Lip Lightening & Care - Chemical-Free - 12g,Lip Scrub
+2026-11-19,20191168,2,638.0,BC-CP-CA-200,Nat Habit Cold Pressed 100% Pure Castor Oil with Vitamin E & Omega-6 for Skin & Hair-200ml,Hair Oil
+2026-11-19,20191172,2,538.0,BC-CP-SE-200,Nat Habit Cold Pressed 100% Pure Sesame Oil for Skin & Hair Zero Preservatives - 200ml,Massage Oils
+2026-11-19,20191184,1,379.0,BC-CP-AL-050,Nat Habit 100% Pure Cold Pressed Almond Body Oil for Deep Moisturisation - 50 ml,Massage Oils
+2026-11-19,20191186,4,1116.0,BC-CP-JO-030,Nat Habit 100% Pure Cold Pressed Jojoba Body Oil for Skin Moisturisation - 30 ml,Massage Oils
+2026-11-19,20191188,5,1445.0,BC-CP-VC-100,Nat Habit 100% Pure Cold Pressed Virgin Coconut Oil for Deep Moisturisation - 100 ml,Hair Oil
+2026-11-19,20191190,2,698.0,BC-CP-NE-200,Nat Habit 100% Pure Cold Pressed Neem Oil to Treats Acne - 200 ml,Hair Oil
+2026-11-19,20191804,1,354.0,BC-EO-RM-015,"Nat Habit Rosemary Essential Oil for Hair Growth, Hair Fall Control Serum - 15ml",Massage Oils
+2026-11-19,20470060,3,699.0,AC-SDL-LO2-00,Nat Habit Set of 2 Natural Sun-Dried Loofah Body Sponge & Scrubber for Exfoliation,Loofah Sponges and Brushes
+2026-11-19,20470434,2,678.0,HR-MJ-GT-200,Nat Habit Hibiscus Hair Jal Post-Wash Serum Spray-200ML,Hair Serum
+2026-11-19,20470436,1,339.0,HR-MJ-CH-200,Nat Habit Methi Hair Jal Post-Wash Serum Spray-200ml,Hair Serum
+2026-11-19,20470438,3,1017.0,HR-MJ-RM-200,Nat Habit Rosemary Hair Jal- 200ml,Hair Serum
+2026-11-19,20470748,1,221.0,FC-KL-OK-040,Nat Habit Orange Kalonji Face Mask for Pigmentation & Blemish Control - 40g,Mask and Peel
+2026-11-19,20470754,1,212.0,FC-KL-NA-040,Nat Habit Fresh Ksheer Lepa Neem Ajwain Face Mask 40gm,Mask and Peel
+2026-11-19,20470760,1,242.0,FC-KL-CN-040,Nat Habit Chandan Nagakesar Face Mask Lepa for Glowing & Brightening Skin - 40g,Mask and Peel
+2026-11-19,21304878,4,1476.0,BA-WHO-BM-110,Nat Habit Brahmi Matsyakshi Winter Baby Hair & Scalp Oil for Healthy Growth - 110ml,Baby Hair Oil
+2026-11-19,21304902,1,287.0,HR-HO-NB-100,Nat Habit Neem Bhringraj Winter Dasabuti Hair Oil for Anti Dandruff - 100 ml,Hair Oil
+2026-11-19,21304906,3,966.0,HR-HO-HA-100,Nat Habit Hibiscus Amla Winter Dasabuti Hair Oil for Hair Growth & Thickness - 100ml,Hair Oil
+2026-11-19,21304908,1,322.0,HR-HO-MR-100,Nat Habit Men Revital Winter Hair Oil For Balding  Anti-Greying Specialist - 100ml,Hair Oil
+2026-11-19,21304910,2,624.0,HR-HO-CS-100,Nat Habit Curry Sesame Winter Dasabuti Hair Oil with 15 Herbs for Oily & Curly Hair- 100ml,Hair Oil
+2026-11-19,21304912,4,1148.0,HR-HO-TL-100,"Nat Habit Tri-Leaf Winter Dasabuti Hair Oil, Hair Fall Control, Ayurvedic Herbal - 100ml",Hair Oil
+2026-11-19,21968004,1,219.0,BC-HM-CBB-025,Nat Habit Chia Banana Biotin Anti Brittle Nails Fresh Whipped Hand Malai Cream - 30 ml,Hand Cream
+2026-11-19,21968010,2,438.0,BC-HM-TRL-025,Nat Habit Tucuma Rose Light Skin Clarity  Brightening Fresh Whipped Hand Malai - 30 ml,Hand Cream
+2026-11-19,22006440,1,405.0,BC-HM-MCY2-025,Nat Habit Set of 2 Mango Cinnamon Youth Whipped Hand Malai - 30 ml Each,Hand Cream
+2026-11-19,22006442,1,444.0,BC-HM-4BM2-025,Nat Habit Set of 2 4 Butter Mush Fresh Whipped Hand Malai Cream - 30 ml Each,Hand Cream
+2026-11-19,22006446,4,1544.0,BC-HM-BVE2-025,Nat Habit Set of 2 Berry Vanilla Elastin Fresh Whipped Hand Malai - 30 ml Each,Hand Cream
+2026-11-19,22017966,1,322.0,FC-DM-AA-030,Nat Habit All Day Malai Clove Tea Tree Face Cream For Anti Acne - 30 gm,Day Cream
+2026-11-19,22017968,6,2130.0,FC-DM-PG-030,Nat Habit Turmeric Face Malai Cream for Glow & Pigmentation with Nutmeg - 30g,Day Cream
+2026-11-19,22017970,3,1065.0,FC-DM-NR-030,Nat Habit Ayurvedic Coco Mogra Night Face Malai Cream with Vitamin E for Anti-Aging - 30g,Night Cream
+2026-11-19,22017972,1,334.0,FC-DM-DP-030,Nat Habit Honey Multinut All Day Face Malai For Dry  Peeling Skin - 30gm,Day Cream
+2026-11-19,22048752,35,12495.0,HR-HE-RA2-250MY,Nat Habit 2Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
+2026-11-19,22158104,6,2154.0,FC-CWDM-FW-030,Nat Habit Flax Walnut Malai Face Moisturizer with Vit E-C & Omega+ for Winters - 30g,Day Cream
+2026-11-19,22158106,1,322.0,FC-HHDM-GAT-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Green Apple  Tulsi - 30 g,Day Cream
+2026-11-19,22158116,1,339.0,FC-CWDM-TP-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Tomato & Patchouli - 30 g,Day Cream
+2026-11-19,22158120,2,668.0,FC-HHDM-TV-030,Nat Habit Fresh Whipped All Day Malai Moisturizer with Tomato  Vetiver - 30 g,Day Cream
+2026-11-19,22173746,1,386.0,BC-HM-LMG2-025,Nat Habit Set Of 2 Lemon Moringa Fresh Whipped Hand Malai For Tan  30 ml Each,Hand Cream
+2026-11-19,22173748,4,796.0,BC-HM-LMG-025,Nat Habit Lemon Moringa Hand Cream with Shea Butter Moisturizes & Reduces Tan - 30ml,Hand Cream
+2026-11-19,22185992,3,2043.0,HR-HE-RA4-250,Nat Habit 4Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
+2026-11-19,22185994,1,522.0,HR-HE-RA3-250,Nat Habit 3Pcs Ready-To-Apply Henna Paste with Black Tea & Herbs 220g each - Rich Brown,Hair Colour
+2026-11-19,22206158,1,411.0,FC-KL-NA2-040,"Nat Habit Set Of 2 Neem Ajwain Fresh Ksheer Lepa for Oil, Acne  Blackheads - 40g each",Mask and Peel
+2026-11-19,22228524,5,1825.0,BC-SM-CID-120,Nat Habit Double Cocoa Body Butter Body Moisturization Dry Repair - 120 ml,Body Butter
+2026-11-19,22228532,1,345.0,BC-SM-RFR-120,Nat Habit Fig Rose Prima Light Body Butter Body Moisturisation Skin Brightening - 120ml,Body Butter
+2026-11-19,22267354,1,229.0,BA-BP-RH-150,Nat Habit Raw Haldi Kusha Baby Powder - 150 g,Baby Powder
+2026-11-19,22267358,1,286.0,BA-BU-MN-080,Nat Habit Milk  Nut Baby Daily Ubtan with Yogurt  Sesame Oil - 80 g,Baby Body Wash and Soap
+2026-11-19,22295988,1,545.0,BC-SM-MNS-200,Nat Habit Multi-Nut Shea Omega-3 Fresh Whipped Skin Malai Body Butter - 200 ml,Body Butter
+2026-11-19,22295996,1,575.0,BC-SM-CID-200,Nat Habit Double Cocoa Intense Derma Care Fresh Whipped Skin Malai Body Butter - 200 ml,Body Butter
+2026-11-19,22295998,2,1090.0,BC-SM-RFR-200,Nat Habit Fig Rose Primalight Skin Cold Cream for Skin Brightening & 24 HR Moisture- 200ml,Body Butter
+2026-11-19,22625476,1,338.0,AC-SDL-LO3-00,Nat Habit Set of 3 Back To Natural Sun-Dried Loofah Body Sponge & Scrubber,Loofah Sponges and Brushes
+2026-11-19,22625478,1,441.0,AC-SDL-LO4-00,Nat Habit 4Pcs Natural Sun-Dried Loofah Body Sponge & Scrubber for Exfoliation - Beige,Loofah Sponges and Brushes
+2026-11-19,22675832,3,840.0,BC-PO-AL-50,"Nat Habit Pure Rogan Badam Almond Oil for Hair Fall, Hair Growth & Skin Care - 50ml",Hair Oil
+2026-11-19,22675836,5,995.0,BC-PO-CO-200,Nat Habit Non-Refined LLP-Free Pure Coconut Oil - 200ml,Hair Oil
+2026-11-19,22788616,3,1677.0,BA-PBO-AL-100,"Nat Habit Pure Almond Baby Oil Enriched with Vit E  Omega-3, 6 - 100ml",Baby Body Oil
+2026-11-19,24264040,2,538.0,FC-FW-PBCR-100,Nat Habit Tikta Purifying Bitter Milk Cream Face Wash with Milk+Karvela+Cashew - 100 g,Face Wash and Cleanser
+2026-11-19,24264042,8,2112.0,FC-FW-MVGL-100,Nat Habit Tikta Moringa Vitamin C Gel Face Wash with Orange  Amla - 100g,Face Wash and Cleanser
+2026-11-19,24264044,1,269.0,FC-FW-MVCR-100,Nat Habit Moringa Vitamin-C Natural Face Wash for Pimple & Oil Control - 100g,Face Wash and Cleanser
+2026-11-19,24265124,12,3408.0,FC-FW-BNGL-100,Nat Habit Anti Acne Facewash - 100g,Face Wash and Cleanser
+2026-11-19,25173570,1,241.0,BA-BU-GG-080,"Nat Habit Baby Daily Ubtan Body Wash & Soap with Natural Herbs,Wheat Flour & Besan- 80g",Baby Body Wash and Soap
+2026-11-19,25219186,2,478.0,FC-FW-RCGL-100,Nat Habit Men's Brightening & Oil Balance Tikta Face Wash - 100 g,Face Wash and Cleanser
+2026-11-19,25224054,15,2535.0,AC-KNC-WTSS-00,Nat Habit Kacchi Neem Wide Wooden Tooth Comb - Soaked in 17 Herbs & Oils for Hair Growth,Hair Brush and Comb
+2026-11-19,25224058,1,199.0,AC-KNC-FTSL-00,Nat Habit Kacchi Neem Large Fine Wooden Tooth Comb - Soaked in 17 Herbs & Oils - Beige,Hair Brush and Comb
+2026-11-19,25224060,1,169.0,AC-KNC-FTSS-00,Nat Habit Kacchi Neem Handmade Fine Wooden Tooth Comb for Long Thick Hair,Hair Brush and Comb
+2026-11-19,25224064,2,500.0,AC-KNC-FTP2-00,Nat Habit Set of 2 Oil Treated Kacchi Neem Fine Tooth Wooden Pocket Comb - Brown,Hair Brush and Comb
+2026-11-19,25247830,52,9125.0,HR-HE-RT2-060,Nat Habit 2Pcs Root Touch Up Henna with Black Tea & Herbs 60g each - Rich Brown,Hair Colour
+2026-11-19,25584294,140,37660.0,FC-FW-BUPA-100,Nat Habit Brightening Ubtan Face Wash with Besan & Rakth Chandan for Glowing Skin-100g,Face Wash and Cleanser
+2026-11-19,25584296,12,3228.0,FC-FW-MDPA-100,Nat Habit Masoor Dal Face Wash for Brightening Skin with Masoor and Moth Dal - 100g,Face Wash and Cleanser
+2026-11-19,25915234,3,1197.0,BC-BL-CID-250MY,Nat Habit Double Cocoa Moisturiser Body Cream With Cocoa & Milk For Soft Skin 250 g,Body Cream and Lotion
+2026-11-19,25915236,11,4125.0,BC-BL-RFR-250MY,Nat Habit Fig Rose Skin Malai Body Cream With Fig & Rose For Glowing Skin 250 ml,Body Cream and Lotion
+2026-11-19,25915238,3,1125.0,BC-BL-MNS-250MY,Nat Habit Multi-Nut Omega 3 Moisturiser Body Cream With Almond & Walnut Skin Repair 250 ml,Body Cream and Lotion
+2026-11-19,25948206,1,399.0,FC-AC-OV-050MY,Nat Habit Vitamin E Olive Active Face Gel with Aging Protection for All Skin Types - 50g,Serum and Gel
+2026-11-19,29552336,1,318.0,CB-KNC-DTP-02,Nat Habit Set Of 2 Dual Tooth & Fine Tooth Pocket Kacchi Neem Combs,Hair Brush and Comb
+2026-11-19,29552342,1,539.0,CB-KNC-DTRA-02,Nat Habit Set Of 2 Neem Kacchi Comb & Ready To Apply Henna Paste - 250 gm,Hair Care Combo
+2026-11-19,29957486,3,1054.61,HR-SH-AP-250,Nat Habit Aloe Peanut Daily Use Navdha Shampoo for Soft & Moisturized Hair - 250ml,Shampoo
+2026-11-19,29957487,2,710.0,HR-SH-CB-250,"Nat Habit Castor Blackseed Navdha Shampoo for Shine, Moisture & Strong Hair - 250ml",Shampoo
+2026-11-19,29957488,1,337.67,HR-SH-CC-250,"Nat Habit Curry Cider Navdha Shampoo for Shine, Moisture Strong Hair & 250ml",Shampoo
+2026-11-19,29957489,25,9114.07,HR-SH-HB-250,Nat Habit Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-19,29957490,13,4604.61,HR-SH-TR-250,Nat Habit Tri-Leaf Rosemary Navadha Shampoo for Frizzy & Dry Hair - 250ml,Shampoo
+2026-11-19,30348836,2,567.33,HR-CN-CC-150,Nat Habit Bio- Activated Fresh Nutri Curry Cider Conditioner for Soft & Shiny Hair- 150ml,Conditioner
+2026-11-19,30348838,3,873.39,HR-CN-TR-150,Nat Habit Bio-activated Fresh Nutri Conditioner for Hair Fall Control- 150ml,Conditioner
+2026-11-19,30348839,2,579.39,HR-CN-AP-150,Nat Habit Aloe Peanut Conditioner-150ml,Conditioner
+2026-11-19,30348840,6,1814.93,HR-CN-HB-150,Nat Habit Five Oil Hibiscus Conditioner for Smooth Lush & Frizz-Free Hair - 150ml,Conditioner
+2026-11-19,30348841,1,294.0,HR-CN-CB-150,Nat Habit Bio Activated Fresh Nutri Conditioner With Castor & Curd - 150ml,Conditioner
+2026-11-19,30856885,3,557.0,HR-PHO-SB-050,"Nat Habit Post Henna Stain Boost Oil for Darkening, Nourishment & Shine - 50ml",Hair Oil
+2026-11-19,31622841,1,690.0,BC-EO-RM-030,Nat Habit Pure Rosemary Essential Oil - 30ml,Massage Oils
+2026-11-19,31678052,1,484.0,BC-CP-RH-030,Nat Habit 100% Pure Cold Pressed Rosehip Oil - 30ml,Facial Oil
+2026-11-19,31694664,1,321.0,FC-ML-TRH-015,Nat Habit Mukhalaya Turmeric Rosehip Facial Oil - 15ml,Facial Oil
+2026-11-19,31700290,1,231.0,FC-KL-GK-040-MY,Nat Habit Gulab Khus Fresh Ksheer Lepa Face Mask With Rose Petals & Khus Roots - 40g,Mask and Peel
+2026-11-19,32476093,2,488.0,FC-FW-KMPA-100,Nat Habit Kali Miti Charcoal Deep Cleansing Face Wash For Anti-Pollution - 100 g,Face Wash and Cleanser
+2026-11-19,32563091,11,2904.0,HR-HIP-IP-85,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 85g - Black,Hair Colour
+2026-11-19,32563092,1,1376.0,HR-HIP-IP-500,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 500g - Black,Hair Colour
+2026-11-19,32563095,1,564.0,HR-HIP-IP-170,Nat Habit HUFA Pigment Indigo Powder Natural Hair Color Dye 170g - Black,Hair Colour
+2026-11-19,32829302,2,1032.0,HR-HE-RASB-03-N,Nat Habit 2 Pcs Ready-To-Apply Henna & Post Henna Stain Boost Oil- 50 ml,Hair Oil
+2026-11-19,32857900,1,406.0,BA-BML-TC-200,Nat Habit Baby Malai Lotion With Tender Coconut For Deep Nourishment - 200 ml,Baby Lotions and Creams
+2026-11-19,32857902,3,1278.0,BA-BML-AD-200,Nat Habit Baby Malai Lotion With Almond & Date For Deep Nourishment - 200 ml,Baby Lotions and Creams
+2026-11-19,32857903,1,406.0,BA-BM-TC-120,Nat Habit Baby Malai Lotion With Tender Coconut For Ultra-Nourishing - 200 ml,Baby Lotions and Creams
+2026-11-19,32906223,3,612.0,FC-HG-PA-080,Nat Habit Fresh Pure Aloe Vera Cooling Gel - 80 g,Serum and Gel
+2026-11-19,32906227,3,705.0,FC-HG-OV-080,Nat Habit Fresh Olive Vit-E Hydration Aging Protection Night Gel - 80 g,Serum and Gel
+2026-11-19,32906228,1,235.0,FC-HG-OK-080,Nat Habit Orange Kiwi Vitamin C Face Gel For Collagen Boost - 80 g,Serum and Gel
+2026-11-19,33688609,4,1276.0,BA-FM-MNO-075,Nat Habit Baby Face Malai With Multi-Nut Oats & Vitamin E Body Lotion - 75 g,Baby Lotions and Creams
+2026-11-19,36454616,1,268.0,BC-CPS-NLHL2-125,Nat Habit Set Of 2 Cold Processed Himalayan Lavender Soap- 125 g Each,Soap
+2026-11-19,36454619,2,1026.0,BC-CPS-NLTB4-125,Nat Habit Set Of 4 Cold Processed Tomato Basil Soap- 125 g Each,Soap
+2026-11-19,36454620,4,1072.0,BC-CPS-NLTB2-125,Nat Habit Set Of 2 Cold Processed Tomato Basil Soap- 125 g Each,Soap
+2026-11-19,36861821,3,1893.0,HR-HE-RA2H-85,Nat Habit Set Of 3 Pigment Indigo Powder- 85 g & Henna Powder- 220 g Each,Hair Masks
+2026-11-19,38737189,1,462.0,HC,Nat Habit Set Of 2 Henna 220 g & Indigo Powder Hair Mask- 85 g Each,Hair Masks
+2026-11-19,43966032,5,1725.0,HR-SH-NB-250,Nat Habit Anti-Dandruff Neem Beracyl Navdha Shampoo - 250 ml,Shampoo
+2026-11-19,44496703,2,848.0,FC-CWDM-FW-050,Nat Habit Fresh Whipped All-day Malai Spf Activated Moisturiser - 50 g,Day Cream
+2026-11-19,44496991,1,375.0,FC-HHDM-TV-050,Nat Habit 48HR Malai Moisturiser - 20-35Yrs - Hot Humid Weather - 50 g,Day Cream
+2026-11-19,44514835,6,5748.0,HR-CB-HJSC-03,"Nat Habit Set Of 3 Hibiscus Hair Spray - 200 ml, Shampoo - 250 ml With Conditioner - 150ml",Hair Care Combo
+2026-11-19,44534967,7,2100.0,HR-SH-ON-250,Nat Habit Anti Hair Fall Onion Shampoo - 250 ml,Shampoo
+2026-11-19,44697932,2,520.0,FC-HP-MM-200,Nat Habit Pure Multani Mitti Powder - 200 g,Mask and Peel
+2026-11-19,44808695,3,1182.0,BC-CPS-NLTB3-125,Nat Habit Set Of 3 Cold Processed Tomato Basil AHA-BHA Moisturising Soap - 125 g Each,Soap
+2026-11-19,45383808,20,10440.0,FC-FW-BUPA2-100,Nat Habit Set Of 2 Brightening Ubtan Tikta Face Wash - 100 g Each,Face Wash and Cleanser
+2026-11-19,45514718,3,2124.0,HR-SH-HB2-250,Nat Habit Set Of 2 Five Oil Fresh Hibiscus Shampoo for Frizzy & Dry Hair - 250 ml Each,Shampoo
+2026-11-19,45527357,1,689.0,HR-SH-TR2-250,Nat Habit Set Of 2 Anti-HairFall Tri-Leaf Rosemary Navdha Shampoo - 250 ml Each,Shampoo
+2026-11-19,45529079,1,605.0,FC-CB-BUPG-02,Nat Habit Set Of 2 De-tan Ubtan Facewash - 100 g & Face Malai Moisturiser - 30 g,Skin Care Combo
+2026-11-19,45894497,1,400.0,FC-CWDM-TP-050,Nat Habit Tomato Patchouli Vit-BEC - 48 Hr Moisturization Face Malai - 50 g,Day Cream
+2026-11-19,46625824,2,1044.0,FC-FW-MDPA2-100,Nat Habit Set Of 2 Grandma's Youth Restore Masoor Dal Face Wash - 100 g Each,Face Wash and Cleanser
